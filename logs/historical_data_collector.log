@@ -1,0 +1,911 @@
+2024-09-01 11:34:24,118 - historical_data_collector - ERROR - Failed to insert historical data for ^IRX: password authentication failed for user "postgres"
+2024-09-01 11:34:25,005 - historical_data_collector - ERROR - Failed to insert historical data for ^FVX: password authentication failed for user "postgres"
+2024-09-01 11:34:25,982 - historical_data_collector - ERROR - Failed to insert historical data for ^TNX: password authentication failed for user "postgres"
+2024-09-01 11:34:26,609 - historical_data_collector - ERROR - Failed to insert historical data for ^TYX: password authentication failed for user "postgres"
+2024-09-01 11:34:26,677 - historical_data_collector - WARNING - No historical data available for ^US1M
+2024-09-01 11:34:26,685 - historical_data_collector - WARNING - No historical data available for ^US3M
+2024-09-01 11:34:26,691 - historical_data_collector - WARNING - No historical data available for ^US6M
+2024-09-01 11:34:26,699 - historical_data_collector - WARNING - No historical data available for ^US1Y
+2024-09-01 11:34:26,705 - historical_data_collector - WARNING - No historical data available for ^US2Y
+2024-09-01 11:34:26,713 - historical_data_collector - WARNING - No historical data available for ^US5Y
+2024-09-01 11:34:26,716 - historical_data_collector - WARNING - No historical data available for ^US10Y
+2024-09-01 11:34:26,730 - historical_data_collector - WARNING - No historical data available for ^US30Y
+2024-09-01 11:34:27,485 - historical_data_collector - ERROR - Failed to insert historical data for JPM: password authentication failed for user "postgres"
+2024-09-01 11:34:28,248 - historical_data_collector - ERROR - Failed to insert historical data for BAC: password authentication failed for user "postgres"
+2024-09-01 11:34:28,956 - historical_data_collector - ERROR - Failed to insert historical data for C: password authentication failed for user "postgres"
+2024-09-01 11:34:29,668 - historical_data_collector - ERROR - Failed to insert historical data for WFC: password authentication failed for user "postgres"
+2024-09-01 11:34:30,150 - historical_data_collector - ERROR - Failed to insert historical data for GS: password authentication failed for user "postgres"
+2024-09-01 11:34:30,594 - historical_data_collector - ERROR - Failed to insert historical data for MS: password authentication failed for user "postgres"
+2024-09-01 11:34:31,243 - historical_data_collector - ERROR - Failed to insert historical data for USB: password authentication failed for user "postgres"
+2024-09-01 11:34:31,697 - historical_data_collector - ERROR - Failed to insert historical data for PNC: password authentication failed for user "postgres"
+2024-09-01 11:34:32,247 - historical_data_collector - ERROR - Failed to insert historical data for BK: password authentication failed for user "postgres"
+2024-09-01 11:34:32,697 - historical_data_collector - ERROR - Failed to insert historical data for STT: password authentication failed for user "postgres"
+2024-09-01 11:34:32,973 - historical_data_collector - ERROR - Failed to insert historical data for CL=F: password authentication failed for user "postgres"
+2024-09-01 11:34:33,247 - historical_data_collector - ERROR - Failed to insert historical data for BZ=F: password authentication failed for user "postgres"
+2024-09-01 11:34:33,543 - historical_data_collector - ERROR - Failed to insert historical data for NG=F: password authentication failed for user "postgres"
+2024-09-01 11:34:33,847 - historical_data_collector - ERROR - Failed to insert historical data for RB=F: password authentication failed for user "postgres"
+2024-09-01 11:34:34,121 - historical_data_collector - ERROR - Failed to insert historical data for HO=F: password authentication failed for user "postgres"
+2024-09-01 11:34:34,829 - historical_data_collector - ERROR - Failed to insert historical data for XOM: password authentication failed for user "postgres"
+2024-09-01 11:34:35,462 - historical_data_collector - ERROR - Failed to insert historical data for CVX: password authentication failed for user "postgres"
+2024-09-01 11:34:36,079 - historical_data_collector - ERROR - Failed to insert historical data for BP: password authentication failed for user "postgres"
+2024-09-01 11:34:36,134 - historical_data_collector - WARNING - No historical data available for RDS.A
+2024-09-01 11:34:36,141 - historical_data_collector - WARNING - No historical data available for TOT
+2024-09-01 11:34:36,734 - historical_data_collector - ERROR - Failed to insert historical data for LMT: password authentication failed for user "postgres"
+2024-09-01 11:34:37,300 - historical_data_collector - ERROR - Failed to insert historical data for NOC: password authentication failed for user "postgres"
+2024-09-01 11:34:38,033 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:34:38,089 - historical_data_collector - WARNING - No historical data available for RTN
+2024-09-01 11:34:38,847 - historical_data_collector - ERROR - Failed to insert historical data for BA: password authentication failed for user "postgres"
+2024-09-01 11:34:39,102 - historical_data_collector - ERROR - Failed to insert historical data for HII: password authentication failed for user "postgres"
+2024-09-01 11:34:39,689 - historical_data_collector - ERROR - Failed to insert historical data for TXT: password authentication failed for user "postgres"
+2024-09-01 11:34:40,288 - historical_data_collector - ERROR - Failed to insert historical data for HON: password authentication failed for user "postgres"
+2024-09-01 11:34:41,039 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:34:41,685 - historical_data_collector - ERROR - Failed to insert historical data for LHX: password authentication failed for user "postgres"
+2024-09-01 11:34:42,104 - historical_data_collector - ERROR - Failed to insert historical data for AAPL: password authentication failed for user "postgres"
+2024-09-01 11:34:42,497 - historical_data_collector - ERROR - Failed to insert historical data for MSFT: password authentication failed for user "postgres"
+2024-09-01 11:34:42,741 - historical_data_collector - ERROR - Failed to insert historical data for GOOGL: password authentication failed for user "postgres"
+2024-09-01 11:34:43,155 - historical_data_collector - ERROR - Failed to insert historical data for AMZN: password authentication failed for user "postgres"
+2024-09-01 11:34:43,222 - historical_data_collector - WARNING - No historical data available for FB
+2024-09-01 11:34:43,406 - historical_data_collector - ERROR - Failed to insert historical data for TSLA: password authentication failed for user "postgres"
+2024-09-01 11:34:43,730 - historical_data_collector - ERROR - Failed to insert historical data for NVDA: password authentication failed for user "postgres"
+2024-09-01 11:34:44,190 - historical_data_collector - ERROR - Failed to insert historical data for INTC: password authentication failed for user "postgres"
+2024-09-01 11:34:44,564 - historical_data_collector - ERROR - Failed to insert historical data for CSCO: password authentication failed for user "postgres"
+2024-09-01 11:34:44,962 - historical_data_collector - ERROR - Failed to insert historical data for ORCL: password authentication failed for user "postgres"
+2024-09-01 11:34:45,673 - historical_data_collector - ERROR - Failed to insert historical data for JNJ: password authentication failed for user "postgres"
+2024-09-01 11:34:46,187 - historical_data_collector - ERROR - Failed to insert historical data for PFE: password authentication failed for user "postgres"
+2024-09-01 11:34:46,825 - historical_data_collector - ERROR - Failed to insert historical data for MRK: password authentication failed for user "postgres"
+2024-09-01 11:34:47,414 - historical_data_collector - ERROR - Failed to insert historical data for ABT: password authentication failed for user "postgres"
+2024-09-01 11:34:47,954 - historical_data_collector - ERROR - Failed to insert historical data for LLY: password authentication failed for user "postgres"
+2024-09-01 11:34:48,456 - historical_data_collector - ERROR - Failed to insert historical data for BMY: password authentication failed for user "postgres"
+2024-09-01 11:34:48,788 - historical_data_collector - ERROR - Failed to insert historical data for GILD: password authentication failed for user "postgres"
+2024-09-01 11:34:49,311 - historical_data_collector - ERROR - Failed to insert historical data for AMGN: password authentication failed for user "postgres"
+2024-09-01 11:34:49,513 - historical_data_collector - ERROR - Failed to insert historical data for ZTS: password authentication failed for user "postgres"
+2024-09-01 11:34:49,906 - historical_data_collector - ERROR - Failed to insert historical data for BIIB: password authentication failed for user "postgres"
+2024-09-01 11:34:50,486 - historical_data_collector - ERROR - Failed to insert historical data for PG: password authentication failed for user "postgres"
+2024-09-01 11:34:51,198 - historical_data_collector - ERROR - Failed to insert historical data for KO: password authentication failed for user "postgres"
+2024-09-01 11:34:51,732 - historical_data_collector - ERROR - Failed to insert historical data for PEP: password authentication failed for user "postgres"
+2024-09-01 11:34:52,306 - historical_data_collector - ERROR - Failed to insert historical data for MO: password authentication failed for user "postgres"
+2024-09-01 11:34:52,501 - historical_data_collector - ERROR - Failed to insert historical data for PM: password authentication failed for user "postgres"
+2024-09-01 11:34:53,168 - historical_data_collector - ERROR - Failed to insert historical data for CL: password authentication failed for user "postgres"
+2024-09-01 11:34:53,759 - historical_data_collector - ERROR - Failed to insert historical data for KMB: password authentication failed for user "postgres"
+2024-09-01 11:34:54,005 - historical_data_collector - ERROR - Failed to insert historical data for MDLZ: password authentication failed for user "postgres"
+2024-09-01 11:34:54,423 - historical_data_collector - ERROR - Failed to insert historical data for UL: password authentication failed for user "postgres"
+2024-09-01 11:34:54,909 - historical_data_collector - ERROR - Failed to insert historical data for NWL: password authentication failed for user "postgres"
+2024-09-01 11:34:55,583 - historical_data_collector - ERROR - Failed to insert historical data for NEE: password authentication failed for user "postgres"
+2024-09-01 11:34:56,035 - historical_data_collector - ERROR - Failed to insert historical data for DUK: password authentication failed for user "postgres"
+2024-09-01 11:34:56,463 - historical_data_collector - ERROR - Failed to insert historical data for SO: password authentication failed for user "postgres"
+2024-09-01 11:34:56,920 - historical_data_collector - ERROR - Failed to insert historical data for D: password authentication failed for user "postgres"
+2024-09-01 11:34:57,730 - historical_data_collector - ERROR - Failed to insert historical data for AEP: password authentication failed for user "postgres"
+2024-09-01 11:34:58,242 - historical_data_collector - ERROR - Failed to insert historical data for EXC: password authentication failed for user "postgres"
+2024-09-01 11:34:58,519 - historical_data_collector - ERROR - Failed to insert historical data for SRE: password authentication failed for user "postgres"
+2024-09-01 11:34:59,155 - historical_data_collector - ERROR - Failed to insert historical data for PCG: password authentication failed for user "postgres"
+2024-09-01 11:34:59,656 - historical_data_collector - ERROR - Failed to insert historical data for PEG: password authentication failed for user "postgres"
+2024-09-01 11:35:00,166 - historical_data_collector - ERROR - Failed to insert historical data for XEL: password authentication failed for user "postgres"
+2024-09-01 11:35:00,781 - historical_data_collector - ERROR - Failed to insert historical data for GE: password authentication failed for user "postgres"
+2024-09-01 11:35:01,502 - historical_data_collector - ERROR - Failed to insert historical data for MMM: password authentication failed for user "postgres"
+2024-09-01 11:35:02,069 - historical_data_collector - ERROR - Failed to insert historical data for CAT: password authentication failed for user "postgres"
+2024-09-01 11:35:02,649 - historical_data_collector - ERROR - Failed to insert historical data for BA: password authentication failed for user "postgres"
+2024-09-01 11:35:03,389 - historical_data_collector - ERROR - Failed to insert historical data for HON: password authentication failed for user "postgres"
+2024-09-01 11:35:03,447 - historical_data_collector - WARNING - No historical data available for UTX
+2024-09-01 11:35:03,899 - historical_data_collector - ERROR - Failed to insert historical data for LMT: password authentication failed for user "postgres"
+2024-09-01 11:35:04,471 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:35:04,935 - historical_data_collector - ERROR - Failed to insert historical data for NOC: password authentication failed for user "postgres"
+2024-09-01 11:35:04,938 - historical_data_collector - WARNING - No historical data available for RTN
+2024-09-01 11:35:04,955 - historical_data_collector - WARNING - No historical data available for BRK.B
+2024-09-01 11:35:05,465 - historical_data_collector - ERROR - Failed to insert historical data for AXP: password authentication failed for user "postgres"
+2024-09-01 11:35:05,757 - historical_data_collector - ERROR - Failed to insert historical data for BLK: password authentication failed for user "postgres"
+2024-09-01 11:35:06,131 - historical_data_collector - ERROR - Failed to insert historical data for SCHW: password authentication failed for user "postgres"
+2024-09-01 11:35:06,699 - historical_data_collector - ERROR - Failed to insert historical data for MMC: password authentication failed for user "postgres"
+2024-09-01 11:35:07,248 - historical_data_collector - ERROR - Failed to insert historical data for SPGI: password authentication failed for user "postgres"
+2024-09-01 11:35:07,471 - historical_data_collector - ERROR - Failed to insert historical data for MSCI: password authentication failed for user "postgres"
+2024-09-01 11:35:07,743 - historical_data_collector - ERROR - Failed to insert historical data for ICE: password authentication failed for user "postgres"
+2024-09-01 11:35:07,976 - historical_data_collector - ERROR - Failed to insert historical data for CME: password authentication failed for user "postgres"
+2024-09-01 11:35:08,291 - historical_data_collector - ERROR - Failed to insert historical data for MCO: password authentication failed for user "postgres"
+2024-09-01 11:35:08,569 - historical_data_collector - ERROR - Failed to insert historical data for AMT: password authentication failed for user "postgres"
+2024-09-01 11:35:08,933 - historical_data_collector - ERROR - Failed to insert historical data for PLD: password authentication failed for user "postgres"
+2024-09-01 11:35:09,258 - historical_data_collector - ERROR - Failed to insert historical data for CCI: password authentication failed for user "postgres"
+2024-09-01 11:35:09,554 - historical_data_collector - ERROR - Failed to insert historical data for EQIX: password authentication failed for user "postgres"
+2024-09-01 11:35:09,971 - historical_data_collector - ERROR - Failed to insert historical data for PSA: password authentication failed for user "postgres"
+2024-09-01 11:35:10,300 - historical_data_collector - ERROR - Failed to insert historical data for SPG: password authentication failed for user "postgres"
+2024-09-01 11:35:10,628 - historical_data_collector - ERROR - Failed to insert historical data for AVB: password authentication failed for user "postgres"
+2024-09-01 11:35:11,094 - historical_data_collector - ERROR - Failed to insert historical data for EQR: password authentication failed for user "postgres"
+2024-09-01 11:35:11,432 - historical_data_collector - ERROR - Failed to insert historical data for ESS: password authentication failed for user "postgres"
+2024-09-01 11:35:11,782 - historical_data_collector - ERROR - Failed to insert historical data for O: password authentication failed for user "postgres"
+2024-09-01 11:35:12,093 - historical_data_collector - ERROR - Failed to insert historical data for SIRI: password authentication failed for user "postgres"
+2024-09-01 11:35:12,464 - historical_data_collector - ERROR - Failed to insert historical data for FCEL: password authentication failed for user "postgres"
+2024-09-01 11:35:12,744 - historical_data_collector - ERROR - Failed to insert historical data for PLUG: password authentication failed for user "postgres"
+2024-09-01 11:35:13,175 - historical_data_collector - ERROR - Failed to insert historical data for IDEX: password authentication failed for user "postgres"
+2024-09-01 11:35:13,323 - historical_data_collector - ERROR - Failed to insert historical data for GPRO: password authentication failed for user "postgres"
+2024-09-01 11:35:13,630 - historical_data_collector - ERROR - Failed to insert historical data for BB: password authentication failed for user "postgres"
+2024-09-01 11:35:13,992 - historical_data_collector - ERROR - Failed to insert historical data for NOK: password authentication failed for user "postgres"
+2024-09-01 11:35:14,148 - historical_data_collector - ERROR - Failed to insert historical data for FUBO: password authentication failed for user "postgres"
+2024-09-01 11:35:14,465 - historical_data_collector - ERROR - Failed to insert historical data for VIVE: password authentication failed for user "postgres"
+2024-09-01 11:35:14,653 - historical_data_collector - ERROR - Failed to insert historical data for OCGN: password authentication failed for user "postgres"
+2024-09-01 11:35:14,914 - historical_data_collector - ERROR - Failed to insert historical data for UPS: password authentication failed for user "postgres"
+2024-09-01 11:35:15,465 - historical_data_collector - ERROR - Failed to insert historical data for FDX: password authentication failed for user "postgres"
+2024-09-01 11:35:15,666 - historical_data_collector - ERROR - Failed to insert historical data for DAL: password authentication failed for user "postgres"
+2024-09-01 11:35:15,915 - historical_data_collector - ERROR - Failed to insert historical data for UAL: password authentication failed for user "postgres"
+2024-09-01 11:35:16,356 - historical_data_collector - ERROR - Failed to insert historical data for LUV: password authentication failed for user "postgres"
+2024-09-01 11:35:16,756 - historical_data_collector - ERROR - Failed to insert historical data for JBHT: password authentication failed for user "postgres"
+2024-09-01 11:35:17,260 - historical_data_collector - ERROR - Failed to insert historical data for EXPD: password authentication failed for user "postgres"
+2024-09-01 11:35:17,621 - historical_data_collector - ERROR - Failed to insert historical data for CHRW: password authentication failed for user "postgres"
+2024-09-01 11:35:17,867 - historical_data_collector - ERROR - Failed to insert historical data for XPO: password authentication failed for user "postgres"
+2024-09-01 11:35:18,276 - historical_data_collector - ERROR - Failed to insert historical data for NSC: password authentication failed for user "postgres"
+2024-09-01 11:35:18,811 - historical_data_collector - ERROR - Failed to insert historical data for WMT: password authentication failed for user "postgres"
+2024-09-01 11:35:19,459 - historical_data_collector - ERROR - Failed to insert historical data for TGT: password authentication failed for user "postgres"
+2024-09-01 11:35:19,851 - historical_data_collector - ERROR - Failed to insert historical data for COST: password authentication failed for user "postgres"
+2024-09-01 11:35:20,149 - historical_data_collector - ERROR - Failed to insert historical data for AMZN: password authentication failed for user "postgres"
+2024-09-01 11:35:20,571 - historical_data_collector - ERROR - Failed to insert historical data for BBY: password authentication failed for user "postgres"
+2024-09-01 11:35:21,082 - historical_data_collector - ERROR - Failed to insert historical data for HD: password authentication failed for user "postgres"
+2024-09-01 11:35:21,716 - historical_data_collector - ERROR - Failed to insert historical data for LOW: password authentication failed for user "postgres"
+2024-09-01 11:35:22,067 - historical_data_collector - ERROR - Failed to insert historical data for M: password authentication failed for user "postgres"
+2024-09-01 11:35:22,422 - historical_data_collector - ERROR - Failed to insert historical data for KSS: password authentication failed for user "postgres"
+2024-09-01 11:35:22,784 - historical_data_collector - ERROR - Failed to insert historical data for TJX: password authentication failed for user "postgres"
+2024-09-01 11:35:23,267 - historical_data_collector - ERROR - Failed to insert historical data for VZ: password authentication failed for user "postgres"
+2024-09-01 11:35:23,767 - historical_data_collector - ERROR - Failed to insert historical data for T: password authentication failed for user "postgres"
+2024-09-01 11:35:24,014 - historical_data_collector - ERROR - Failed to insert historical data for TMUS: password authentication failed for user "postgres"
+2024-09-01 11:35:24,116 - historical_data_collector - ERROR - Failed to insert historical data for S: password authentication failed for user "postgres"
+2024-09-01 11:35:24,142 - historical_data_collector - WARNING - No historical data available for CHL
+2024-09-01 11:35:24,512 - historical_data_collector - ERROR - Failed to insert historical data for VOD: password authentication failed for user "postgres"
+2024-09-01 11:35:24,804 - historical_data_collector - ERROR - Failed to insert historical data for ORAN: password authentication failed for user "postgres"
+2024-09-01 11:35:25,250 - historical_data_collector - ERROR - Failed to insert historical data for NOK: password authentication failed for user "postgres"
+2024-09-01 11:35:25,748 - historical_data_collector - ERROR - Failed to insert historical data for ERIC: password authentication failed for user "postgres"
+2024-09-01 11:35:26,199 - historical_data_collector - ERROR - Failed to insert historical data for AMX: password authentication failed for user "postgres"
+2024-09-01 11:35:26,465 - historical_data_collector - ERROR - Failed to insert historical data for XLE: password authentication failed for user "postgres"
+2024-09-01 11:35:26,686 - historical_data_collector - ERROR - Failed to insert historical data for XOP: password authentication failed for user "postgres"
+2024-09-01 11:35:26,932 - historical_data_collector - ERROR - Failed to insert historical data for OIH: password authentication failed for user "postgres"
+2024-09-01 11:35:27,202 - historical_data_collector - ERROR - Failed to insert historical data for VDE: password authentication failed for user "postgres"
+2024-09-01 11:35:27,460 - historical_data_collector - ERROR - Failed to insert historical data for IXC: password authentication failed for user "postgres"
+2024-09-01 11:35:27,656 - historical_data_collector - ERROR - Failed to insert historical data for ERX: password authentication failed for user "postgres"
+2024-09-01 11:35:27,999 - historical_data_collector - ERROR - Failed to insert historical data for ERY: password authentication failed for user "postgres"
+2024-09-01 11:35:28,243 - historical_data_collector - ERROR - Failed to insert historical data for PXI: password authentication failed for user "postgres"
+2024-09-01 11:35:28,565 - historical_data_collector - ERROR - Failed to insert historical data for IYE: password authentication failed for user "postgres"
+2024-09-01 11:35:28,736 - historical_data_collector - ERROR - Failed to insert historical data for FENY: password authentication failed for user "postgres"
+2024-09-01 11:35:28,967 - historical_data_collector - ERROR - Failed to insert historical data for GLD: password authentication failed for user "postgres"
+2024-09-01 11:35:29,214 - historical_data_collector - ERROR - Failed to insert historical data for SLV: password authentication failed for user "postgres"
+2024-09-01 11:35:29,393 - historical_data_collector - ERROR - Failed to insert historical data for PPLT: password authentication failed for user "postgres"
+2024-09-01 11:35:29,616 - historical_data_collector - ERROR - Failed to insert historical data for PALL: password authentication failed for user "postgres"
+2024-09-01 11:35:29,867 - historical_data_collector - ERROR - Failed to insert historical data for GDX: password authentication failed for user "postgres"
+2024-09-01 11:35:30,081 - historical_data_collector - ERROR - Failed to insert historical data for GDXJ: password authentication failed for user "postgres"
+2024-09-01 11:35:30,353 - historical_data_collector - ERROR - Failed to insert historical data for IAU: password authentication failed for user "postgres"
+2024-09-01 11:35:30,569 - historical_data_collector - ERROR - Failed to insert historical data for DBP: password authentication failed for user "postgres"
+2024-09-01 11:35:30,785 - historical_data_collector - ERROR - Failed to insert historical data for SGOL: password authentication failed for user "postgres"
+2024-09-01 11:35:31,095 - historical_data_collector - ERROR - Failed to insert historical data for RING: password authentication failed for user "postgres"
+2024-09-01 11:35:31,414 - historical_data_collector - ERROR - Failed to insert historical data for SPY: password authentication failed for user "postgres"
+2024-09-01 11:35:31,698 - historical_data_collector - ERROR - Failed to insert historical data for DIA: password authentication failed for user "postgres"
+2024-09-01 11:35:31,978 - historical_data_collector - ERROR - Failed to insert historical data for QQQ: password authentication failed for user "postgres"
+2024-09-01 11:35:32,236 - historical_data_collector - ERROR - Failed to insert historical data for IWM: password authentication failed for user "postgres"
+2024-09-01 11:35:32,514 - historical_data_collector - ERROR - Failed to insert historical data for IVV: password authentication failed for user "postgres"
+2024-09-01 11:35:32,790 - historical_data_collector - ERROR - Failed to insert historical data for VOO: password authentication failed for user "postgres"
+2024-09-01 11:35:33,092 - historical_data_collector - ERROR - Failed to insert historical data for VTI: password authentication failed for user "postgres"
+2024-09-01 11:35:33,465 - historical_data_collector - ERROR - Failed to insert historical data for VTV: password authentication failed for user "postgres"
+2024-09-01 11:35:33,636 - historical_data_collector - ERROR - Failed to insert historical data for MTUM: password authentication failed for user "postgres"
+2024-09-01 11:35:33,834 - historical_data_collector - ERROR - Failed to insert historical data for SCHX: password authentication failed for user "postgres"
+2024-09-01 11:35:34,140 - historical_data_collector - ERROR - Failed to insert historical data for XLK: password authentication failed for user "postgres"
+2024-09-01 11:35:34,368 - historical_data_collector - ERROR - Failed to insert historical data for VGT: password authentication failed for user "postgres"
+2024-09-01 11:35:34,531 - historical_data_collector - ERROR - Failed to insert historical data for FTEC: password authentication failed for user "postgres"
+2024-09-01 11:35:34,797 - historical_data_collector - ERROR - Failed to insert historical data for IYW: password authentication failed for user "postgres"
+2024-09-01 11:35:35,029 - historical_data_collector - ERROR - Failed to insert historical data for RYT: password authentication failed for user "postgres"
+2024-09-01 11:35:35,287 - historical_data_collector - ERROR - Failed to insert historical data for IXN: password authentication failed for user "postgres"
+2024-09-01 11:35:35,681 - historical_data_collector - ERROR - Failed to insert historical data for IGM: password authentication failed for user "postgres"
+2024-09-01 11:35:35,955 - historical_data_collector - ERROR - Failed to insert historical data for QTEC: password authentication failed for user "postgres"
+2024-09-01 11:35:36,169 - historical_data_collector - ERROR - Failed to insert historical data for XSD: password authentication failed for user "postgres"
+2024-09-01 11:35:36,448 - historical_data_collector - ERROR - Failed to insert historical data for SOXX: password authentication failed for user "postgres"
+2024-09-01 11:35:36,726 - historical_data_collector - ERROR - Failed to insert historical data for XLU: password authentication failed for user "postgres"
+2024-09-01 11:35:36,979 - historical_data_collector - ERROR - Failed to insert historical data for VPU: password authentication failed for user "postgres"
+2024-09-01 11:35:37,267 - historical_data_collector - ERROR - Failed to insert historical data for IDU: password authentication failed for user "postgres"
+2024-09-01 11:35:37,514 - historical_data_collector - ERROR - Failed to insert historical data for FUTY: password authentication failed for user "postgres"
+2024-09-01 11:35:37,748 - historical_data_collector - ERROR - Failed to insert historical data for RYU: password authentication failed for user "postgres"
+2024-09-01 11:35:37,975 - historical_data_collector - ERROR - Failed to insert historical data for PUI: password authentication failed for user "postgres"
+2024-09-01 11:35:38,251 - historical_data_collector - ERROR - Failed to insert historical data for FXU: password authentication failed for user "postgres"
+2024-09-01 11:35:38,465 - historical_data_collector - ERROR - Failed to insert historical data for JXI: password authentication failed for user "postgres"
+2024-09-01 11:35:38,701 - historical_data_collector - ERROR - Failed to insert historical data for PUI: password authentication failed for user "postgres"
+2024-09-01 11:35:38,903 - historical_data_collector - ERROR - Failed to insert historical data for RYU: password authentication failed for user "postgres"
+2024-09-01 11:35:39,188 - historical_data_collector - ERROR - Failed to insert historical data for VYM: password authentication failed for user "postgres"
+2024-09-01 11:35:39,412 - historical_data_collector - ERROR - Failed to insert historical data for DVY: password authentication failed for user "postgres"
+2024-09-01 11:35:39,647 - historical_data_collector - ERROR - Failed to insert historical data for SDY: password authentication failed for user "postgres"
+2024-09-01 11:35:39,829 - historical_data_collector - ERROR - Failed to insert historical data for HDV: password authentication failed for user "postgres"
+2024-09-01 11:35:40,032 - historical_data_collector - ERROR - Failed to insert historical data for SCHD: password authentication failed for user "postgres"
+2024-09-01 11:35:40,185 - historical_data_collector - ERROR - Failed to insert historical data for NOBL: password authentication failed for user "postgres"
+2024-09-01 11:35:40,404 - historical_data_collector - ERROR - Failed to insert historical data for VIG: password authentication failed for user "postgres"
+2024-09-01 11:35:40,545 - historical_data_collector - ERROR - Failed to insert historical data for SPYD: password authentication failed for user "postgres"
+2024-09-01 11:35:40,835 - historical_data_collector - ERROR - Failed to insert historical data for FVD: password authentication failed for user "postgres"
+2024-09-01 11:35:41,154 - historical_data_collector - ERROR - Failed to insert historical data for DLN: password authentication failed for user "postgres"
+2024-09-01 11:35:41,442 - historical_data_collector - ERROR - Failed to insert historical data for XLF: password authentication failed for user "postgres"
+2024-09-01 11:35:41,766 - historical_data_collector - ERROR - Failed to insert historical data for XLI: password authentication failed for user "postgres"
+2024-09-01 11:35:42,078 - historical_data_collector - ERROR - Failed to insert historical data for XLY: password authentication failed for user "postgres"
+2024-09-01 11:35:42,349 - historical_data_collector - ERROR - Failed to insert historical data for XLP: password authentication failed for user "postgres"
+2024-09-01 11:35:42,634 - historical_data_collector - ERROR - Failed to insert historical data for XLV: password authentication failed for user "postgres"
+2024-09-01 11:35:43,011 - historical_data_collector - ERROR - Failed to insert historical data for XLB: password authentication failed for user "postgres"
+2024-09-01 11:35:43,183 - historical_data_collector - ERROR - Failed to insert historical data for XLRE: password authentication failed for user "postgres"
+2024-09-01 11:35:43,427 - historical_data_collector - ERROR - Failed to insert historical data for XTL: password authentication failed for user "postgres"
+2024-09-01 11:35:43,746 - historical_data_collector - ERROR - Failed to insert historical data for XLU: password authentication failed for user "postgres"
+2024-09-01 11:35:44,019 - historical_data_collector - ERROR - Failed to insert historical data for XLK: password authentication failed for user "postgres"
+2024-09-01 11:35:44,074 - historical_data_collector - INFO - Historical data collection completed.
+2024-09-01 11:44:15,139 - historical_data_collector - ERROR - Failed to insert historical data for ^IRX: password authentication failed for user "postgres"
+2024-09-01 11:44:15,984 - historical_data_collector - ERROR - Failed to insert historical data for ^FVX: password authentication failed for user "postgres"
+2024-09-01 11:44:16,789 - historical_data_collector - ERROR - Failed to insert historical data for ^TNX: password authentication failed for user "postgres"
+2024-09-01 11:44:17,424 - historical_data_collector - ERROR - Failed to insert historical data for ^TYX: password authentication failed for user "postgres"
+2024-09-01 11:44:17,435 - historical_data_collector - WARNING - No historical data available for ^US1M
+2024-09-01 11:44:17,446 - historical_data_collector - WARNING - No historical data available for ^US3M
+2024-09-01 11:44:17,454 - historical_data_collector - WARNING - No historical data available for ^US6M
+2024-09-01 11:44:17,457 - historical_data_collector - WARNING - No historical data available for ^US1Y
+2024-09-01 11:44:17,467 - historical_data_collector - WARNING - No historical data available for ^US2Y
+2024-09-01 11:44:17,469 - historical_data_collector - WARNING - No historical data available for ^US5Y
+2024-09-01 11:44:17,478 - historical_data_collector - WARNING - No historical data available for ^US10Y
+2024-09-01 11:44:17,488 - historical_data_collector - WARNING - No historical data available for ^US30Y
+2024-09-01 11:44:18,123 - historical_data_collector - ERROR - Failed to insert historical data for JPM: password authentication failed for user "postgres"
+2024-09-01 11:44:18,817 - historical_data_collector - ERROR - Failed to insert historical data for BAC: password authentication failed for user "postgres"
+2024-09-01 11:44:19,526 - historical_data_collector - ERROR - Failed to insert historical data for C: password authentication failed for user "postgres"
+2024-09-01 11:44:20,230 - historical_data_collector - ERROR - Failed to insert historical data for WFC: password authentication failed for user "postgres"
+2024-09-01 11:44:20,672 - historical_data_collector - ERROR - Failed to insert historical data for GS: password authentication failed for user "postgres"
+2024-09-01 11:44:21,094 - historical_data_collector - ERROR - Failed to insert historical data for MS: password authentication failed for user "postgres"
+2024-09-01 11:44:21,745 - historical_data_collector - ERROR - Failed to insert historical data for USB: password authentication failed for user "postgres"
+2024-09-01 11:44:22,345 - historical_data_collector - ERROR - Failed to insert historical data for PNC: password authentication failed for user "postgres"
+2024-09-01 11:44:23,073 - historical_data_collector - ERROR - Failed to insert historical data for BK: password authentication failed for user "postgres"
+2024-09-01 11:44:23,670 - historical_data_collector - ERROR - Failed to insert historical data for STT: password authentication failed for user "postgres"
+2024-09-01 11:44:23,975 - historical_data_collector - ERROR - Failed to insert historical data for CL=F: password authentication failed for user "postgres"
+2024-09-01 11:44:24,203 - historical_data_collector - ERROR - Failed to insert historical data for BZ=F: password authentication failed for user "postgres"
+2024-09-01 11:44:24,459 - historical_data_collector - ERROR - Failed to insert historical data for NG=F: password authentication failed for user "postgres"
+2024-09-01 11:44:24,721 - historical_data_collector - ERROR - Failed to insert historical data for RB=F: password authentication failed for user "postgres"
+2024-09-01 11:44:24,968 - historical_data_collector - ERROR - Failed to insert historical data for HO=F: password authentication failed for user "postgres"
+2024-09-01 11:44:25,599 - historical_data_collector - ERROR - Failed to insert historical data for XOM: password authentication failed for user "postgres"
+2024-09-01 11:44:26,177 - historical_data_collector - ERROR - Failed to insert historical data for CVX: password authentication failed for user "postgres"
+2024-09-01 11:44:26,769 - historical_data_collector - ERROR - Failed to insert historical data for BP: password authentication failed for user "postgres"
+2024-09-01 11:44:26,771 - historical_data_collector - WARNING - No historical data available for RDS.A
+2024-09-01 11:44:26,780 - historical_data_collector - WARNING - No historical data available for TOT
+2024-09-01 11:44:27,292 - historical_data_collector - ERROR - Failed to insert historical data for LMT: password authentication failed for user "postgres"
+2024-09-01 11:44:27,700 - historical_data_collector - ERROR - Failed to insert historical data for NOC: password authentication failed for user "postgres"
+2024-09-01 11:44:28,257 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:44:28,263 - historical_data_collector - WARNING - No historical data available for RTN
+2024-09-01 11:44:28,886 - historical_data_collector - ERROR - Failed to insert historical data for BA: password authentication failed for user "postgres"
+2024-09-01 11:44:29,074 - historical_data_collector - ERROR - Failed to insert historical data for HII: password authentication failed for user "postgres"
+2024-09-01 11:44:29,537 - historical_data_collector - ERROR - Failed to insert historical data for TXT: password authentication failed for user "postgres"
+2024-09-01 11:44:30,232 - historical_data_collector - ERROR - Failed to insert historical data for HON: password authentication failed for user "postgres"
+2024-09-01 11:44:30,844 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:44:31,270 - historical_data_collector - ERROR - Failed to insert historical data for LHX: password authentication failed for user "postgres"
+2024-09-01 11:44:31,695 - historical_data_collector - ERROR - Failed to insert historical data for AAPL: password authentication failed for user "postgres"
+2024-09-01 11:44:32,060 - historical_data_collector - ERROR - Failed to insert historical data for MSFT: password authentication failed for user "postgres"
+2024-09-01 11:44:32,295 - historical_data_collector - ERROR - Failed to insert historical data for GOOGL: password authentication failed for user "postgres"
+2024-09-01 11:44:32,683 - historical_data_collector - ERROR - Failed to insert historical data for AMZN: password authentication failed for user "postgres"
+2024-09-01 11:44:32,705 - historical_data_collector - WARNING - No historical data available for FB
+2024-09-01 11:44:32,886 - historical_data_collector - ERROR - Failed to insert historical data for TSLA: password authentication failed for user "postgres"
+2024-09-01 11:44:33,158 - historical_data_collector - ERROR - Failed to insert historical data for NVDA: password authentication failed for user "postgres"
+2024-09-01 11:44:33,665 - historical_data_collector - ERROR - Failed to insert historical data for INTC: password authentication failed for user "postgres"
+2024-09-01 11:44:34,023 - historical_data_collector - ERROR - Failed to insert historical data for CSCO: password authentication failed for user "postgres"
+2024-09-01 11:44:34,443 - historical_data_collector - ERROR - Failed to insert historical data for ORCL: password authentication failed for user "postgres"
+2024-09-01 11:44:35,100 - historical_data_collector - ERROR - Failed to insert historical data for JNJ: password authentication failed for user "postgres"
+2024-09-01 11:44:35,606 - historical_data_collector - ERROR - Failed to insert historical data for PFE: password authentication failed for user "postgres"
+2024-09-01 11:44:36,241 - historical_data_collector - ERROR - Failed to insert historical data for MRK: password authentication failed for user "postgres"
+2024-09-01 11:44:36,711 - historical_data_collector - ERROR - Failed to insert historical data for ABT: password authentication failed for user "postgres"
+2024-09-01 11:44:37,234 - historical_data_collector - ERROR - Failed to insert historical data for LLY: password authentication failed for user "postgres"
+2024-09-01 11:44:37,718 - historical_data_collector - ERROR - Failed to insert historical data for BMY: password authentication failed for user "postgres"
+2024-09-01 11:44:38,065 - historical_data_collector - ERROR - Failed to insert historical data for GILD: password authentication failed for user "postgres"
+2024-09-01 11:44:38,570 - historical_data_collector - ERROR - Failed to insert historical data for AMGN: password authentication failed for user "postgres"
+2024-09-01 11:44:38,762 - historical_data_collector - ERROR - Failed to insert historical data for ZTS: password authentication failed for user "postgres"
+2024-09-01 11:44:39,126 - historical_data_collector - ERROR - Failed to insert historical data for BIIB: password authentication failed for user "postgres"
+2024-09-01 11:44:39,745 - historical_data_collector - ERROR - Failed to insert historical data for PG: password authentication failed for user "postgres"
+2024-09-01 11:44:40,492 - historical_data_collector - ERROR - Failed to insert historical data for KO: password authentication failed for user "postgres"
+2024-09-01 11:44:41,084 - historical_data_collector - ERROR - Failed to insert historical data for PEP: password authentication failed for user "postgres"
+2024-09-01 11:44:41,692 - historical_data_collector - ERROR - Failed to insert historical data for MO: password authentication failed for user "postgres"
+2024-09-01 11:44:41,927 - historical_data_collector - ERROR - Failed to insert historical data for PM: password authentication failed for user "postgres"
+2024-09-01 11:44:42,578 - historical_data_collector - ERROR - Failed to insert historical data for CL: password authentication failed for user "postgres"
+2024-09-01 11:44:43,122 - historical_data_collector - ERROR - Failed to insert historical data for KMB: password authentication failed for user "postgres"
+2024-09-01 11:44:43,378 - historical_data_collector - ERROR - Failed to insert historical data for MDLZ: password authentication failed for user "postgres"
+2024-09-01 11:44:43,804 - historical_data_collector - ERROR - Failed to insert historical data for UL: password authentication failed for user "postgres"
+2024-09-01 11:44:44,224 - historical_data_collector - ERROR - Failed to insert historical data for NWL: password authentication failed for user "postgres"
+2024-09-01 11:44:44,766 - historical_data_collector - ERROR - Failed to insert historical data for NEE: password authentication failed for user "postgres"
+2024-09-01 11:44:45,191 - historical_data_collector - ERROR - Failed to insert historical data for DUK: password authentication failed for user "postgres"
+2024-09-01 11:44:45,639 - historical_data_collector - ERROR - Failed to insert historical data for SO: password authentication failed for user "postgres"
+2024-09-01 11:44:46,145 - historical_data_collector - ERROR - Failed to insert historical data for D: password authentication failed for user "postgres"
+2024-09-01 11:44:46,881 - historical_data_collector - ERROR - Failed to insert historical data for AEP: password authentication failed for user "postgres"
+2024-09-01 11:44:47,392 - historical_data_collector - ERROR - Failed to insert historical data for EXC: password authentication failed for user "postgres"
+2024-09-01 11:44:47,714 - historical_data_collector - ERROR - Failed to insert historical data for SRE: password authentication failed for user "postgres"
+2024-09-01 11:44:48,257 - historical_data_collector - ERROR - Failed to insert historical data for PCG: password authentication failed for user "postgres"
+2024-09-01 11:44:48,690 - historical_data_collector - ERROR - Failed to insert historical data for PEG: password authentication failed for user "postgres"
+2024-09-01 11:44:49,170 - historical_data_collector - ERROR - Failed to insert historical data for XEL: password authentication failed for user "postgres"
+2024-09-01 11:44:49,802 - historical_data_collector - ERROR - Failed to insert historical data for GE: password authentication failed for user "postgres"
+2024-09-01 11:44:50,487 - historical_data_collector - ERROR - Failed to insert historical data for MMM: password authentication failed for user "postgres"
+2024-09-01 11:44:51,058 - historical_data_collector - ERROR - Failed to insert historical data for CAT: password authentication failed for user "postgres"
+2024-09-01 11:44:51,691 - historical_data_collector - ERROR - Failed to insert historical data for BA: password authentication failed for user "postgres"
+2024-09-01 11:44:52,381 - historical_data_collector - ERROR - Failed to insert historical data for HON: password authentication failed for user "postgres"
+2024-09-01 11:44:52,385 - historical_data_collector - WARNING - No historical data available for UTX
+2024-09-01 11:44:52,844 - historical_data_collector - ERROR - Failed to insert historical data for LMT: password authentication failed for user "postgres"
+2024-09-01 11:44:53,448 - historical_data_collector - ERROR - Failed to insert historical data for GD: password authentication failed for user "postgres"
+2024-09-01 11:44:53,921 - historical_data_collector - ERROR - Failed to insert historical data for NOC: password authentication failed for user "postgres"
+2024-09-01 11:44:53,949 - historical_data_collector - WARNING - No historical data available for RTN
+2024-09-01 11:44:53,954 - historical_data_collector - WARNING - No historical data available for BRK.B
+2024-09-01 11:44:54,439 - historical_data_collector - ERROR - Failed to insert historical data for AXP: password authentication failed for user "postgres"
+2024-09-01 11:44:54,721 - historical_data_collector - ERROR - Failed to insert historical data for BLK: password authentication failed for user "postgres"
+2024-09-01 11:44:55,086 - historical_data_collector - ERROR - Failed to insert historical data for SCHW: password authentication failed for user "postgres"
+2024-09-01 11:44:55,634 - historical_data_collector - ERROR - Failed to insert historical data for MMC: password authentication failed for user "postgres"
+2024-09-01 11:44:56,108 - historical_data_collector - ERROR - Failed to insert historical data for SPGI: password authentication failed for user "postgres"
+2024-09-01 11:44:56,332 - historical_data_collector - ERROR - Failed to insert historical data for MSCI: password authentication failed for user "postgres"
+2024-09-01 11:44:56,588 - historical_data_collector - ERROR - Failed to insert historical data for ICE: password authentication failed for user "postgres"
+2024-09-01 11:44:56,876 - historical_data_collector - ERROR - Failed to insert historical data for CME: password authentication failed for user "postgres"
+2024-09-01 11:44:57,181 - historical_data_collector - ERROR - Failed to insert historical data for MCO: password authentication failed for user "postgres"
+2024-09-01 11:44:57,458 - historical_data_collector - ERROR - Failed to insert historical data for AMT: password authentication failed for user "postgres"
+2024-09-01 11:44:57,794 - historical_data_collector - ERROR - Failed to insert historical data for PLD: password authentication failed for user "postgres"
+2024-09-01 11:44:58,092 - historical_data_collector - ERROR - Failed to insert historical data for CCI: password authentication failed for user "postgres"
+2024-09-01 11:44:58,346 - historical_data_collector - ERROR - Failed to insert historical data for EQIX: password authentication failed for user "postgres"
+2024-09-01 11:44:58,770 - historical_data_collector - ERROR - Failed to insert historical data for PSA: password authentication failed for user "postgres"
+2024-09-01 11:44:59,079 - historical_data_collector - ERROR - Failed to insert historical data for SPG: password authentication failed for user "postgres"
+2024-09-01 11:44:59,381 - historical_data_collector - ERROR - Failed to insert historical data for AVB: password authentication failed for user "postgres"
+2024-09-01 11:44:59,767 - historical_data_collector - ERROR - Failed to insert historical data for EQR: password authentication failed for user "postgres"
+2024-09-01 11:45:00,082 - historical_data_collector - ERROR - Failed to insert historical data for ESS: password authentication failed for user "postgres"
+2024-09-01 11:45:00,448 - historical_data_collector - ERROR - Failed to insert historical data for O: password authentication failed for user "postgres"
+2024-09-01 11:45:00,766 - historical_data_collector - ERROR - Failed to insert historical data for SIRI: password authentication failed for user "postgres"
+2024-09-01 11:45:01,149 - historical_data_collector - ERROR - Failed to insert historical data for FCEL: password authentication failed for user "postgres"
+2024-09-01 11:45:01,480 - historical_data_collector - ERROR - Failed to insert historical data for PLUG: password authentication failed for user "postgres"
+2024-09-01 11:45:01,842 - historical_data_collector - ERROR - Failed to insert historical data for IDEX: password authentication failed for user "postgres"
+2024-09-01 11:45:02,002 - historical_data_collector - ERROR - Failed to insert historical data for GPRO: password authentication failed for user "postgres"
+2024-09-01 11:45:02,269 - historical_data_collector - ERROR - Failed to insert historical data for BB: password authentication failed for user "postgres"
+2024-09-01 11:45:02,572 - historical_data_collector - ERROR - Failed to insert historical data for NOK: password authentication failed for user "postgres"
+2024-09-01 11:45:02,685 - historical_data_collector - ERROR - Failed to insert historical data for FUBO: password authentication failed for user "postgres"
+2024-09-01 11:45:03,016 - historical_data_collector - ERROR - Failed to insert historical data for VIVE: password authentication failed for user "postgres"
+2024-09-01 11:45:03,208 - historical_data_collector - ERROR - Failed to insert historical data for OCGN: password authentication failed for user "postgres"
+2024-09-01 11:45:03,477 - historical_data_collector - ERROR - Failed to insert historical data for UPS: password authentication failed for user "postgres"
+2024-09-01 11:45:04,045 - historical_data_collector - ERROR - Failed to insert historical data for FDX: password authentication failed for user "postgres"
+2024-09-01 11:45:04,290 - historical_data_collector - ERROR - Failed to insert historical data for DAL: password authentication failed for user "postgres"
+2024-09-01 11:45:04,509 - historical_data_collector - ERROR - Failed to insert historical data for UAL: password authentication failed for user "postgres"
+2024-09-01 11:45:04,972 - historical_data_collector - ERROR - Failed to insert historical data for LUV: password authentication failed for user "postgres"
+2024-09-01 11:45:05,362 - historical_data_collector - ERROR - Failed to insert historical data for JBHT: password authentication failed for user "postgres"
+2024-09-01 11:45:05,768 - historical_data_collector - ERROR - Failed to insert historical data for EXPD: password authentication failed for user "postgres"
+2024-09-01 11:45:06,146 - historical_data_collector - ERROR - Failed to insert historical data for CHRW: password authentication failed for user "postgres"
+2024-09-01 11:45:06,427 - historical_data_collector - ERROR - Failed to insert historical data for XPO: password authentication failed for user "postgres"
+2024-09-01 11:45:06,994 - historical_data_collector - ERROR - Failed to insert historical data for NSC: password authentication failed for user "postgres"
+2024-09-01 11:45:07,645 - historical_data_collector - ERROR - Failed to insert historical data for WMT: password authentication failed for user "postgres"
+2024-09-01 11:45:08,360 - historical_data_collector - ERROR - Failed to insert historical data for TGT: password authentication failed for user "postgres"
+2024-09-01 11:45:08,850 - historical_data_collector - ERROR - Failed to insert historical data for COST: password authentication failed for user "postgres"
+2024-09-01 11:45:09,357 - historical_data_collector - ERROR - Failed to insert historical data for AMZN: password authentication failed for user "postgres"
+2024-09-01 11:45:09,931 - historical_data_collector - ERROR - Failed to insert historical data for BBY: password authentication failed for user "postgres"
+2024-09-01 11:45:10,557 - historical_data_collector - ERROR - Failed to insert historical data for HD: password authentication failed for user "postgres"
+2024-09-01 11:45:11,236 - historical_data_collector - ERROR - Failed to insert historical data for LOW: password authentication failed for user "postgres"
+2024-09-01 11:45:11,736 - historical_data_collector - ERROR - Failed to insert historical data for M: password authentication failed for user "postgres"
+2024-09-01 11:45:12,211 - historical_data_collector - ERROR - Failed to insert historical data for KSS: password authentication failed for user "postgres"
+2024-09-01 11:45:12,776 - historical_data_collector - ERROR - Failed to insert historical data for TJX: password authentication failed for user "postgres"
+2024-09-01 11:45:13,186 - historical_data_collector - ERROR - Failed to insert historical data for VZ: password authentication failed for user "postgres"
+2024-09-01 11:45:13,645 - historical_data_collector - ERROR - Failed to insert historical data for T: password authentication failed for user "postgres"
+2024-09-01 11:45:13,901 - historical_data_collector - ERROR - Failed to insert historical data for TMUS: password authentication failed for user "postgres"
+2024-09-01 11:45:14,114 - historical_data_collector - ERROR - Failed to insert historical data for S: password authentication failed for user "postgres"
+2024-09-01 11:45:14,328 - historical_data_collector - WARNING - No historical data available for CHL
+2024-09-01 11:45:14,738 - historical_data_collector - ERROR - Failed to insert historical data for VOD: password authentication failed for user "postgres"
+2024-09-01 11:45:15,037 - historical_data_collector - ERROR - Failed to insert historical data for ORAN: password authentication failed for user "postgres"
+2024-09-01 11:45:15,373 - historical_data_collector - ERROR - Failed to insert historical data for NOK: password authentication failed for user "postgres"
+2024-09-01 11:45:15,906 - historical_data_collector - ERROR - Failed to insert historical data for ERIC: password authentication failed for user "postgres"
+2024-09-01 11:45:16,243 - historical_data_collector - ERROR - Failed to insert historical data for AMX: password authentication failed for user "postgres"
+2024-09-01 11:45:16,552 - historical_data_collector - ERROR - Failed to insert historical data for XLE: password authentication failed for user "postgres"
+2024-09-01 11:45:16,767 - historical_data_collector - ERROR - Failed to insert historical data for XOP: password authentication failed for user "postgres"
+2024-09-01 11:45:17,054 - historical_data_collector - ERROR - Failed to insert historical data for OIH: password authentication failed for user "postgres"
+2024-09-01 11:45:17,272 - historical_data_collector - ERROR - Failed to insert historical data for VDE: password authentication failed for user "postgres"
+2024-09-01 11:45:17,555 - historical_data_collector - ERROR - Failed to insert historical data for IXC: password authentication failed for user "postgres"
+2024-09-01 11:45:17,747 - historical_data_collector - ERROR - Failed to insert historical data for ERX: password authentication failed for user "postgres"
+2024-09-01 11:45:18,014 - historical_data_collector - ERROR - Failed to insert historical data for ERY: password authentication failed for user "postgres"
+2024-09-01 11:45:18,283 - historical_data_collector - ERROR - Failed to insert historical data for PXI: password authentication failed for user "postgres"
+2024-09-01 11:45:18,745 - historical_data_collector - ERROR - Failed to insert historical data for IYE: password authentication failed for user "postgres"
+2024-09-01 11:45:18,941 - historical_data_collector - ERROR - Failed to insert historical data for FENY: password authentication failed for user "postgres"
+2024-09-01 11:45:19,181 - historical_data_collector - ERROR - Failed to insert historical data for GLD: password authentication failed for user "postgres"
+2024-09-01 11:45:19,437 - historical_data_collector - ERROR - Failed to insert historical data for SLV: password authentication failed for user "postgres"
+2024-09-01 11:45:19,624 - historical_data_collector - ERROR - Failed to insert historical data for PPLT: password authentication failed for user "postgres"
+2024-09-01 11:45:19,811 - historical_data_collector - ERROR - Failed to insert historical data for PALL: password authentication failed for user "postgres"
+2024-09-01 11:45:20,093 - historical_data_collector - ERROR - Failed to insert historical data for GDX: password authentication failed for user "postgres"
+2024-09-01 11:45:20,354 - historical_data_collector - ERROR - Failed to insert historical data for GDXJ: password authentication failed for user "postgres"
+2024-09-01 11:45:20,680 - historical_data_collector - ERROR - Failed to insert historical data for IAU: password authentication failed for user "postgres"
+2024-09-01 11:45:20,918 - historical_data_collector - ERROR - Failed to insert historical data for DBP: password authentication failed for user "postgres"
+2024-09-01 11:45:21,118 - historical_data_collector - ERROR - Failed to insert historical data for SGOL: password authentication failed for user "postgres"
+2024-09-01 11:45:21,416 - historical_data_collector - ERROR - Failed to insert historical data for RING: password authentication failed for user "postgres"
+2024-09-01 11:45:21,752 - historical_data_collector - ERROR - Failed to insert historical data for SPY: password authentication failed for user "postgres"
+2024-09-01 11:45:22,050 - historical_data_collector - ERROR - Failed to insert historical data for DIA: password authentication failed for user "postgres"
+2024-09-01 11:45:22,312 - historical_data_collector - ERROR - Failed to insert historical data for QQQ: password authentication failed for user "postgres"
+2024-09-01 11:45:22,579 - historical_data_collector - ERROR - Failed to insert historical data for IWM: password authentication failed for user "postgres"
+2024-09-01 11:45:22,845 - historical_data_collector - ERROR - Failed to insert historical data for IVV: password authentication failed for user "postgres"
+2024-09-01 11:45:23,038 - historical_data_collector - ERROR - Failed to insert historical data for VOO: password authentication failed for user "postgres"
+2024-09-01 11:45:23,298 - historical_data_collector - ERROR - Failed to insert historical data for VTI: password authentication failed for user "postgres"
+2024-09-01 11:45:23,608 - historical_data_collector - ERROR - Failed to insert historical data for VTV: password authentication failed for user "postgres"
+2024-09-01 11:45:23,774 - historical_data_collector - ERROR - Failed to insert historical data for MTUM: password authentication failed for user "postgres"
+2024-09-01 11:45:23,981 - historical_data_collector - ERROR - Failed to insert historical data for SCHX: password authentication failed for user "postgres"
+2024-09-01 11:45:24,318 - historical_data_collector - ERROR - Failed to insert historical data for XLK: password authentication failed for user "postgres"
+2024-09-01 11:45:24,536 - historical_data_collector - ERROR - Failed to insert historical data for VGT: password authentication failed for user "postgres"
+2024-09-01 11:45:24,728 - historical_data_collector - ERROR - Failed to insert historical data for FTEC: password authentication failed for user "postgres"
+2024-09-01 11:45:24,995 - historical_data_collector - ERROR - Failed to insert historical data for IYW: password authentication failed for user "postgres"
+2024-09-01 11:45:25,193 - historical_data_collector - ERROR - Failed to insert historical data for RYT: password authentication failed for user "postgres"
+2024-09-01 11:45:25,485 - historical_data_collector - ERROR - Failed to insert historical data for IXN: password authentication failed for user "postgres"
+2024-09-01 11:45:25,758 - historical_data_collector - ERROR - Failed to insert historical data for IGM: password authentication failed for user "postgres"
+2024-09-01 11:45:26,014 - historical_data_collector - ERROR - Failed to insert historical data for QTEC: password authentication failed for user "postgres"
+2024-09-01 11:45:26,227 - historical_data_collector - ERROR - Failed to insert historical data for XSD: password authentication failed for user "postgres"
+2024-09-01 11:45:26,515 - historical_data_collector - ERROR - Failed to insert historical data for SOXX: password authentication failed for user "postgres"
+2024-09-01 11:45:26,782 - historical_data_collector - ERROR - Failed to insert historical data for XLU: password authentication failed for user "postgres"
+2024-09-01 11:45:27,022 - historical_data_collector - ERROR - Failed to insert historical data for VPU: password authentication failed for user "postgres"
+2024-09-01 11:45:27,298 - historical_data_collector - ERROR - Failed to insert historical data for IDU: password authentication failed for user "postgres"
+2024-09-01 11:45:27,454 - historical_data_collector - ERROR - Failed to insert historical data for FUTY: password authentication failed for user "postgres"
+2024-09-01 11:45:27,646 - historical_data_collector - ERROR - Failed to insert historical data for RYU: password authentication failed for user "postgres"
+2024-09-01 11:45:27,945 - historical_data_collector - ERROR - Failed to insert historical data for PUI: password authentication failed for user "postgres"
+2024-09-01 11:45:28,340 - historical_data_collector - ERROR - Failed to insert historical data for FXU: password authentication failed for user "postgres"
+2024-09-01 11:45:28,563 - historical_data_collector - ERROR - Failed to insert historical data for JXI: password authentication failed for user "postgres"
+2024-09-01 11:45:28,819 - historical_data_collector - ERROR - Failed to insert historical data for PUI: password authentication failed for user "postgres"
+2024-09-01 11:45:29,048 - historical_data_collector - ERROR - Failed to insert historical data for RYU: password authentication failed for user "postgres"
+2024-09-01 11:45:29,304 - historical_data_collector - ERROR - Failed to insert historical data for VYM: password authentication failed for user "postgres"
+2024-09-01 11:45:29,591 - historical_data_collector - ERROR - Failed to insert historical data for DVY: password authentication failed for user "postgres"
+2024-09-01 11:45:29,822 - historical_data_collector - ERROR - Failed to insert historical data for SDY: password authentication failed for user "postgres"
+2024-09-01 11:45:30,046 - historical_data_collector - ERROR - Failed to insert historical data for HDV: password authentication failed for user "postgres"
+2024-09-01 11:45:30,217 - historical_data_collector - ERROR - Failed to insert historical data for SCHD: password authentication failed for user "postgres"
+2024-09-01 11:45:30,366 - historical_data_collector - ERROR - Failed to insert historical data for NOBL: password authentication failed for user "postgres"
+2024-09-01 11:45:30,579 - historical_data_collector - ERROR - Failed to insert historical data for VIG: password authentication failed for user "postgres"
+2024-09-01 11:45:30,761 - historical_data_collector - ERROR - Failed to insert historical data for SPYD: password authentication failed for user "postgres"
+2024-09-01 11:45:31,075 - historical_data_collector - ERROR - Failed to insert historical data for FVD: password authentication failed for user "postgres"
+2024-09-01 11:45:31,305 - historical_data_collector - ERROR - Failed to insert historical data for DLN: password authentication failed for user "postgres"
+2024-09-01 11:45:31,651 - historical_data_collector - ERROR - Failed to insert historical data for XLF: password authentication failed for user "postgres"
+2024-09-01 11:45:32,035 - historical_data_collector - ERROR - Failed to insert historical data for XLI: password authentication failed for user "postgres"
+2024-09-01 11:45:32,430 - historical_data_collector - ERROR - Failed to insert historical data for XLY: password authentication failed for user "postgres"
+2024-09-01 11:45:32,841 - historical_data_collector - ERROR - Failed to insert historical data for XLP: password authentication failed for user "postgres"
+2024-09-01 11:45:33,203 - historical_data_collector - ERROR - Failed to insert historical data for XLV: password authentication failed for user "postgres"
+2024-09-01 11:45:33,635 - historical_data_collector - ERROR - Failed to insert historical data for XLB: password authentication failed for user "postgres"
+2024-09-01 11:45:33,816 - historical_data_collector - ERROR - Failed to insert historical data for XLRE: password authentication failed for user "postgres"
+2024-09-01 11:45:34,061 - historical_data_collector - ERROR - Failed to insert historical data for XTL: password authentication failed for user "postgres"
+2024-09-01 11:45:34,430 - historical_data_collector - ERROR - Failed to insert historical data for XLU: password authentication failed for user "postgres"
+2024-09-01 11:45:34,803 - historical_data_collector - ERROR - Failed to insert historical data for XLK: password authentication failed for user "postgres"
+2024-09-01 11:45:34,835 - historical_data_collector - INFO - Historical data collection completed.
+2024-09-01 11:53:16,815 - historical_data_collector - ERROR - Failed to insert historical data for ^IRX: password authentication failed for user "postgres"
+2024-09-01 11:53:17,678 - historical_data_collector - ERROR - Failed to insert historical data for ^FVX: password authentication failed for user "postgres"
+2024-09-01 11:53:18,544 - historical_data_collector - ERROR - Failed to insert historical data for ^TNX: password authentication failed for user "postgres"
+2024-09-01 11:53:19,204 - historical_data_collector - ERROR - Failed to insert historical data for ^TYX: password authentication failed for user "postgres"
+2024-09-01 11:53:19,214 - historical_data_collector - WARNING - No historical data available for ^US1M
+2024-09-01 11:53:19,221 - historical_data_collector - WARNING - No historical data available for ^US3M
+2024-09-01 11:53:19,225 - historical_data_collector - WARNING - No historical data available for ^US6M
+2024-09-01 11:53:19,225 - historical_data_collector - WARNING - No historical data available for ^US1Y
+2024-09-01 11:53:19,242 - historical_data_collector - WARNING - No historical data available for ^US2Y
+2024-09-01 11:53:19,246 - historical_data_collector - WARNING - No historical data available for ^US5Y
+2024-09-01 11:53:19,257 - historical_data_collector - WARNING - No historical data available for ^US10Y
+2024-09-01 11:53:19,261 - historical_data_collector - WARNING - No historical data available for ^US30Y
+2024-09-01 11:53:19,897 - historical_data_collector - ERROR - Failed to insert historical data for JPM: password authentication failed for user "postgres"
+2024-09-01 11:53:20,600 - historical_data_collector - ERROR - Failed to insert historical data for BAC: password authentication failed for user "postgres"
+2024-09-01 11:53:21,204 - historical_data_collector - ERROR - Failed to insert historical data for C: password authentication failed for user "postgres"
+2024-09-01 11:53:21,870 - historical_data_collector - ERROR - Failed to insert historical data for WFC: password authentication failed for user "postgres"
+2024-09-01 11:53:22,287 - historical_data_collector - ERROR - Failed to insert historical data for GS: password authentication failed for user "postgres"
+2024-09-01 11:53:22,722 - historical_data_collector - ERROR - Failed to insert historical data for MS: password authentication failed for user "postgres"
+2024-09-01 11:53:23,387 - historical_data_collector - ERROR - Failed to insert historical data for USB: password authentication failed for user "postgres"
+2024-09-01 11:53:24,016 - historical_data_collector - ERROR - Failed to insert historical data for PNC: password authentication failed for user "postgres"
+2024-09-01 11:53:24,594 - historical_data_collector - ERROR - Failed to insert historical data for BK: password authentication failed for user "postgres"
+2024-09-01 11:53:25,043 - historical_data_collector - ERROR - Failed to insert historical data for STT: password authentication failed for user "postgres"
+2024-09-01 11:53:25,310 - historical_data_collector - ERROR - Failed to insert historical data for CL=F: password authentication failed for user "postgres"
+2024-09-01 11:53:25,501 - historical_data_collector - ERROR - Failed to insert historical data for BZ=F: password authentication failed for user "postgres"
+2024-09-01 11:53:25,833 - historical_data_collector - ERROR - Failed to insert historical data for NG=F: password authentication failed for user "postgres"
+2024-09-01 11:53:26,095 - historical_data_collector - ERROR - Failed to insert historical data for RB=F: password authentication failed for user "postgres"
+2024-09-01 11:53:26,351 - historical_data_collector - ERROR - Failed to insert historical data for HO=F: password authentication failed for user "postgres"
+2024-09-01 11:53:27,033 - historical_data_collector - ERROR - Failed to insert historical data for XOM: password authentication failed for user "postgres"
+2024-09-01 11:53:27,642 - historical_data_collector - ERROR - Failed to insert historical data for CVX: password authentication failed for user "postgres"
+2024-09-01 11:53:28,271 - historical_data_collector - ERROR - Failed to insert historical data for BP: password authentication failed for user "postgres"
+2024-09-01 11:53:28,284 - historical_data_collector - WARNING - No historical data available for RDS.A
+2024-09-01 11:53:28,292 - historical_data_collector - WARNING - No historical data available for TOT
+2024-09-02 11:49:17,153 - INFO - Successfully inserted historical data for ^IRX
+2024-09-02 11:49:19,352 - INFO - Successfully inserted historical data for ^FVX
+2024-09-02 11:49:21,465 - INFO - Successfully inserted historical data for ^TNX
+2024-09-02 11:49:22,772 - INFO - Successfully inserted historical data for ^TYX
+2024-09-02 11:49:22,782 - WARNING - No historical data available for ^US1M
+2024-09-02 11:49:22,787 - WARNING - No historical data available for ^US3M
+2024-09-02 11:49:22,796 - WARNING - No historical data available for ^US6M
+2024-09-02 11:49:22,804 - WARNING - No historical data available for ^US1Y
+2024-09-02 11:49:22,808 - WARNING - No historical data available for ^US2Y
+2024-09-02 11:49:22,814 - WARNING - No historical data available for ^US5Y
+2024-09-02 11:49:22,814 - WARNING - No historical data available for ^US10Y
+2024-09-02 11:49:22,825 - WARNING - No historical data available for ^US30Y
+2024-09-02 11:49:23,875 - INFO - Successfully inserted historical data for JPM
+2024-09-02 11:49:25,328 - INFO - Successfully inserted historical data for BAC
+2024-09-02 11:49:26,558 - INFO - Successfully inserted historical data for C
+2024-09-02 11:49:27,908 - INFO - Successfully inserted historical data for WFC
+2024-09-02 11:49:28,553 - INFO - Successfully inserted historical data for GS
+2024-09-02 11:49:29,396 - INFO - Successfully inserted historical data for MS
+2024-09-02 11:49:30,665 - INFO - Successfully inserted historical data for USB
+2024-09-02 11:49:31,924 - INFO - Successfully inserted historical data for PNC
+2024-09-02 11:49:33,337 - INFO - Successfully inserted historical data for BK
+2024-09-02 11:49:34,473 - INFO - Successfully inserted historical data for STT
+2024-09-02 11:49:35,103 - INFO - Successfully inserted historical data for CL=F
+2024-09-02 11:49:35,572 - INFO - Successfully inserted historical data for BZ=F
+2024-09-02 11:49:36,244 - INFO - Successfully inserted historical data for NG=F
+2024-09-02 11:49:36,863 - INFO - Successfully inserted historical data for RB=F
+2024-09-02 11:49:37,540 - INFO - Successfully inserted historical data for HO=F
+2024-09-02 11:49:39,178 - INFO - Successfully inserted historical data for XOM
+2024-09-02 11:49:40,863 - INFO - Successfully inserted historical data for CVX
+2024-09-02 11:49:42,410 - INFO - Successfully inserted historical data for BP
+2024-09-02 11:49:42,420 - WARNING - No historical data available for RDS.A
+2024-09-02 11:49:42,431 - WARNING - No historical data available for TOT
+2024-09-02 11:49:43,700 - INFO - Successfully inserted historical data for LMT
+2024-09-02 11:49:44,791 - INFO - Successfully inserted historical data for NOC
+2024-09-02 11:49:46,474 - INFO - Successfully inserted historical data for GD
+2024-09-02 11:49:46,506 - WARNING - No historical data available for RTN
+2024-09-02 11:49:48,181 - INFO - Successfully inserted historical data for BA
+2024-09-02 11:49:48,522 - INFO - Successfully inserted historical data for HII
+2024-09-02 11:49:49,912 - INFO - Successfully inserted historical data for TXT
+2024-09-02 11:49:51,588 - INFO - Successfully inserted historical data for HON
+2024-09-02 11:49:53,183 - INFO - Successfully inserted historical data for GD
+2024-09-02 11:49:54,297 - INFO - Successfully inserted historical data for LHX
+2024-09-02 11:49:55,434 - INFO - Successfully inserted historical data for AAPL
+2024-09-02 11:49:56,419 - INFO - Successfully inserted historical data for MSFT
+2024-09-02 11:49:56,993 - INFO - Successfully inserted historical data for GOOGL
+2024-09-02 11:49:57,706 - INFO - Successfully inserted historical data for AMZN
+2024-09-02 11:49:57,760 - WARNING - No historical data available for FB
+2024-09-02 11:49:58,158 - INFO - Successfully inserted historical data for TSLA
+2024-09-02 11:49:58,840 - INFO - Successfully inserted historical data for NVDA
+2024-09-02 11:50:00,066 - INFO - Successfully inserted historical data for INTC
+2024-09-02 11:50:00,922 - INFO - Successfully inserted historical data for CSCO
+2024-09-02 11:50:01,973 - INFO - Successfully inserted historical data for ORCL
+2024-09-02 11:50:03,722 - INFO - Successfully inserted historical data for JNJ
+2024-09-02 11:50:05,050 - INFO - Successfully inserted historical data for PFE
+2024-09-02 11:50:06,784 - INFO - Successfully inserted historical data for MRK
+2024-09-02 11:50:07,957 - INFO - Successfully inserted historical data for ABT
+2024-09-02 11:50:09,359 - INFO - Successfully inserted historical data for LLY
+2024-09-02 11:50:10,677 - INFO - Successfully inserted historical data for BMY
+2024-09-02 11:50:11,635 - INFO - Successfully inserted historical data for GILD
+2024-09-02 11:50:12,705 - INFO - Successfully inserted historical data for AMGN
+2024-09-02 11:50:13,029 - INFO - Successfully inserted historical data for ZTS
+2024-09-02 11:50:13,888 - INFO - Successfully inserted historical data for BIIB
+2024-09-02 11:50:15,616 - INFO - Successfully inserted historical data for PG
+2024-09-02 11:50:17,310 - INFO - Successfully inserted historical data for KO
+2024-09-02 11:50:18,660 - INFO - Successfully inserted historical data for PEP
+2024-09-02 11:50:20,299 - INFO - Successfully inserted historical data for MO
+2024-09-02 11:50:20,762 - INFO - Successfully inserted historical data for PM
+2024-09-02 11:50:22,177 - INFO - Successfully inserted historical data for CL
+2024-09-02 11:50:23,371 - INFO - Successfully inserted historical data for KMB
+2024-09-02 11:50:24,011 - INFO - Successfully inserted historical data for MDLZ
+2024-09-02 11:50:25,121 - INFO - Successfully inserted historical data for UL
+2024-09-02 11:50:26,368 - INFO - Successfully inserted historical data for NWL
+2024-09-02 11:50:27,769 - INFO - Successfully inserted historical data for NEE
+2024-09-02 11:50:28,918 - INFO - Successfully inserted historical data for DUK
+2024-09-02 11:50:30,113 - INFO - Successfully inserted historical data for SO
+2024-09-02 11:50:31,307 - INFO - Successfully inserted historical data for D
+2024-09-02 11:50:32,951 - INFO - Successfully inserted historical data for AEP
+2024-09-02 11:50:34,209 - INFO - Successfully inserted historical data for EXC
+2024-09-02 11:50:34,902 - INFO - Successfully inserted historical data for SRE
+2024-09-02 11:50:36,310 - INFO - Successfully inserted historical data for PCG
+2024-09-02 11:50:37,483 - INFO - Successfully inserted historical data for PEG
+2024-09-02 11:50:38,854 - INFO - Successfully inserted historical data for XEL
+2024-09-02 11:50:40,470 - INFO - Successfully inserted historical data for GE
+2024-09-02 11:50:42,108 - INFO - Successfully inserted historical data for MMM
+2024-09-02 11:50:43,830 - INFO - Successfully inserted historical data for CAT
+2024-09-02 11:50:45,239 - INFO - Successfully inserted historical data for BA
+2024-09-02 11:50:46,636 - INFO - Successfully inserted historical data for HON
+2024-09-02 11:50:46,641 - WARNING - No historical data available for UTX
+2024-09-02 11:50:47,788 - INFO - Successfully inserted historical data for LMT
+2024-09-02 11:50:49,222 - INFO - Successfully inserted historical data for GD
+2024-09-02 11:50:50,154 - INFO - Successfully inserted historical data for NOC
+2024-09-02 11:50:50,156 - WARNING - No historical data available for RTN
+2024-09-02 11:50:50,167 - WARNING - No historical data available for BRK.B
+2024-09-02 11:50:51,426 - INFO - Successfully inserted historical data for AXP
+2024-09-02 11:50:52,033 - INFO - Successfully inserted historical data for BLK
+2024-09-02 11:50:53,036 - INFO - Successfully inserted historical data for SCHW
+2024-09-02 11:50:54,444 - INFO - Successfully inserted historical data for MMC
+2024-09-02 11:50:55,734 - INFO - Successfully inserted historical data for SPGI
+2024-09-02 11:50:56,162 - INFO - Successfully inserted historical data for MSCI
+2024-09-02 11:50:56,663 - INFO - Successfully inserted historical data for ICE
+2024-09-02 11:50:57,249 - INFO - Successfully inserted historical data for CME
+2024-09-02 11:50:58,082 - INFO - Successfully inserted historical data for MCO
+2024-09-02 11:50:58,940 - INFO - Successfully inserted historical data for AMT
+2024-09-02 11:50:59,811 - INFO - Successfully inserted historical data for PLD
+2024-09-02 11:51:00,930 - INFO - Successfully inserted historical data for CCI
+2024-09-02 11:51:01,879 - INFO - Successfully inserted historical data for EQIX
+2024-09-02 11:51:03,234 - INFO - Successfully inserted historical data for PSA
+2024-09-02 11:51:04,044 - INFO - Successfully inserted historical data for SPG
+2024-09-02 11:51:04,855 - INFO - Successfully inserted historical data for AVB
+2024-09-02 11:51:05,730 - INFO - Successfully inserted historical data for EQR
+2024-09-02 11:51:06,530 - INFO - Successfully inserted historical data for ESS
+2024-09-02 11:51:07,303 - INFO - Successfully inserted historical data for O
+2024-09-02 11:51:08,034 - INFO - Successfully inserted historical data for SIRI
+2024-09-02 11:51:08,878 - INFO - Successfully inserted historical data for FCEL
+2024-09-02 11:51:09,687 - INFO - Successfully inserted historical data for PLUG
+2024-09-02 11:51:10,479 - INFO - Successfully inserted historical data for IDEX
+2024-09-02 11:51:10,797 - INFO - Successfully inserted historical data for GPRO
+2024-09-02 11:51:11,469 - INFO - Successfully inserted historical data for BB
+2024-09-02 11:51:12,248 - INFO - Successfully inserted historical data for NOK
+2024-09-02 11:51:12,408 - INFO - Successfully inserted historical data for FUBO
+2024-09-02 11:51:13,245 - INFO - Successfully inserted historical data for VIVE
+2024-09-02 11:51:13,538 - INFO - Successfully inserted historical data for OCGN
+2024-09-02 11:51:14,160 - INFO - Successfully inserted historical data for UPS
+2024-09-02 11:51:15,387 - INFO - Successfully inserted historical data for FDX
+2024-09-02 11:51:15,906 - INFO - Successfully inserted historical data for DAL
+2024-09-02 11:51:16,471 - INFO - Successfully inserted historical data for UAL
+2024-09-02 11:51:17,634 - INFO - Successfully inserted historical data for LUV
+2024-09-02 11:51:18,714 - INFO - Successfully inserted historical data for JBHT
+2024-09-02 11:51:19,874 - INFO - Successfully inserted historical data for EXPD
+2024-09-02 11:51:20,644 - INFO - Successfully inserted historical data for CHRW
+2024-09-02 11:51:21,234 - INFO - Successfully inserted historical data for XPO
+2024-09-02 11:51:22,383 - INFO - Successfully inserted historical data for NSC
+2024-09-02 11:51:23,672 - INFO - Successfully inserted historical data for WMT
+2024-09-02 11:51:25,040 - INFO - Successfully inserted historical data for TGT
+2024-09-02 11:51:26,087 - INFO - Successfully inserted historical data for COST
+2024-09-02 11:51:26,744 - INFO - Successfully inserted historical data for AMZN
+2024-09-02 11:51:27,750 - INFO - Successfully inserted historical data for BBY
+2024-09-02 11:51:28,850 - INFO - Successfully inserted historical data for HD
+2024-09-02 11:51:30,125 - INFO - Successfully inserted historical data for LOW
+2024-09-02 11:51:31,009 - INFO - Successfully inserted historical data for M
+2024-09-02 11:51:31,939 - INFO - Successfully inserted historical data for KSS
+2024-09-02 11:51:32,872 - INFO - Successfully inserted historical data for TJX
+2024-09-02 11:51:33,885 - INFO - Successfully inserted historical data for VZ
+2024-09-02 11:51:34,979 - INFO - Successfully inserted historical data for T
+2024-09-02 11:51:35,443 - INFO - Successfully inserted historical data for TMUS
+2024-09-02 11:51:35,581 - INFO - Successfully inserted historical data for S
+2024-09-02 11:51:35,622 - WARNING - No historical data available for CHL
+2024-09-02 11:51:36,547 - INFO - Successfully inserted historical data for VOD
+2024-09-02 11:51:37,251 - INFO - Successfully inserted historical data for ORAN
+2024-09-02 11:51:38,008 - INFO - Successfully inserted historical data for NOK
+2024-09-02 11:51:39,182 - INFO - Successfully inserted historical data for ERIC
+2024-09-02 11:51:39,765 - INFO - Successfully inserted historical data for AMX
+2024-09-02 11:51:40,552 - INFO - Successfully inserted historical data for XLE
+2024-09-02 11:51:41,106 - INFO - Successfully inserted historical data for XOP
+2024-09-02 11:51:41,758 - INFO - Successfully inserted historical data for OIH
+2024-09-02 11:51:42,300 - INFO - Successfully inserted historical data for VDE
+2024-09-02 11:51:42,915 - INFO - Successfully inserted historical data for IXC
+2024-09-02 11:51:43,386 - INFO - Successfully inserted historical data for ERX
+2024-09-02 11:51:43,811 - INFO - Successfully inserted historical data for ERY
+2024-09-02 11:51:44,313 - INFO - Successfully inserted historical data for PXI
+2024-09-02 11:51:44,932 - INFO - Successfully inserted historical data for IYE
+2024-09-02 11:51:45,273 - INFO - Successfully inserted historical data for FENY
+2024-09-02 11:51:45,854 - INFO - Successfully inserted historical data for GLD
+2024-09-02 11:51:46,297 - INFO - Successfully inserted historical data for SLV
+2024-09-02 11:51:46,691 - INFO - Successfully inserted historical data for PPLT
+2024-09-02 11:51:47,118 - INFO - Successfully inserted historical data for PALL
+2024-09-02 11:51:47,609 - INFO - Successfully inserted historical data for GDX
+2024-09-02 11:51:47,998 - INFO - Successfully inserted historical data for GDXJ
+2024-09-02 11:51:48,531 - INFO - Successfully inserted historical data for IAU
+2024-09-02 11:51:48,996 - INFO - Successfully inserted historical data for DBP
+2024-09-02 11:51:49,433 - INFO - Successfully inserted historical data for SGOL
+2024-09-02 11:51:49,758 - INFO - Successfully inserted historical data for RING
+2024-09-02 11:51:50,627 - INFO - Successfully inserted historical data for SPY
+2024-09-02 11:51:51,427 - INFO - Successfully inserted historical data for DIA
+2024-09-02 11:51:52,110 - INFO - Successfully inserted historical data for QQQ
+2024-09-02 11:51:52,787 - INFO - Successfully inserted historical data for IWM
+2024-09-02 11:51:53,486 - INFO - Successfully inserted historical data for IVV
+2024-09-02 11:51:53,902 - INFO - Successfully inserted historical data for VOO
+2024-09-02 11:51:54,462 - INFO - Successfully inserted historical data for VTI
+2024-09-02 11:51:54,996 - INFO - Successfully inserted historical data for VTV
+2024-09-02 11:51:55,332 - INFO - Successfully inserted historical data for MTUM
+2024-09-02 11:51:55,737 - INFO - Successfully inserted historical data for SCHX
+2024-09-02 11:51:56,452 - INFO - Successfully inserted historical data for XLK
+2024-09-02 11:51:56,990 - INFO - Successfully inserted historical data for VGT
+2024-09-02 11:51:57,306 - INFO - Successfully inserted historical data for FTEC
+2024-09-02 11:51:57,988 - INFO - Successfully inserted historical data for IYW
+2024-09-02 11:51:58,367 - INFO - Successfully inserted historical data for RYT
+2024-09-02 11:51:58,937 - INFO - Successfully inserted historical data for IXN
+2024-09-02 11:51:59,668 - INFO - Successfully inserted historical data for IGM
+2024-09-02 11:52:00,164 - INFO - Successfully inserted historical data for QTEC
+2024-09-02 11:52:00,827 - INFO - Successfully inserted historical data for XSD
+2024-09-02 11:52:01,497 - INFO - Successfully inserted historical data for SOXX
+2024-09-02 11:52:02,244 - INFO - Successfully inserted historical data for XLU
+2024-09-02 11:52:02,841 - INFO - Successfully inserted historical data for VPU
+2024-09-02 11:52:03,641 - INFO - Successfully inserted historical data for IDU
+2024-09-02 11:52:03,950 - INFO - Successfully inserted historical data for FUTY
+2024-09-02 11:52:04,340 - INFO - Successfully inserted historical data for RYU
+2024-09-02 11:52:04,910 - INFO - Successfully inserted historical data for PUI
+2024-09-02 11:52:05,485 - INFO - Successfully inserted historical data for FXU
+2024-09-02 11:52:05,950 - INFO - Successfully inserted historical data for JXI
+2024-09-02 11:52:06,420 - INFO - Successfully inserted historical data for PUI
+2024-09-02 11:52:06,831 - INFO - Successfully inserted historical data for RYU
+2024-09-02 11:52:07,337 - INFO - Successfully inserted historical data for VYM
+2024-09-02 11:52:07,940 - INFO - Successfully inserted historical data for DVY
+2024-09-02 11:52:08,410 - INFO - Successfully inserted historical data for SDY
+2024-09-02 11:52:08,798 - INFO - Successfully inserted historical data for HDV
+2024-09-02 11:52:09,241 - INFO - Successfully inserted historical data for SCHD
+2024-09-02 11:52:09,540 - INFO - Successfully inserted historical data for NOBL
+2024-09-02 11:52:10,058 - INFO - Successfully inserted historical data for VIG
+2024-09-02 11:52:10,351 - INFO - Successfully inserted historical data for SPYD
+2024-09-02 11:52:10,884 - INFO - Successfully inserted historical data for FVD
+2024-09-02 11:52:11,353 - INFO - Successfully inserted historical data for DLN
+2024-09-02 11:52:12,111 - INFO - Successfully inserted historical data for XLF
+2024-09-02 11:52:12,783 - INFO - Successfully inserted historical data for XLI
+2024-09-02 11:52:13,430 - INFO - Successfully inserted historical data for XLY
+2024-09-02 11:52:14,106 - INFO - Successfully inserted historical data for XLP
+2024-09-02 11:52:14,852 - INFO - Successfully inserted historical data for XLV
+2024-09-02 11:52:15,508 - INFO - Successfully inserted historical data for XLB
+2024-09-02 11:52:15,754 - INFO - Successfully inserted historical data for XLRE
+2024-09-02 11:52:16,123 - INFO - Successfully inserted historical data for XTL
+2024-09-02 11:52:16,762 - INFO - Successfully inserted historical data for XLU
+2024-09-02 11:52:17,423 - INFO - Successfully inserted historical data for XLK
+2024-09-02 11:52:17,434 - INFO - Historical data collection completed.
+2024-09-03 11:15:12,327 - INFO - Successfully inserted historical data for JPM
+2024-09-03 11:15:13,844 - INFO - Successfully inserted historical data for BAC
+2024-09-03 11:15:15,197 - INFO - Successfully inserted historical data for C
+2024-09-03 11:15:16,804 - INFO - Successfully inserted historical data for WFC
+2024-09-03 11:15:17,577 - INFO - Successfully inserted historical data for GS
+2024-09-03 11:15:18,527 - INFO - Successfully inserted historical data for MS
+2024-09-03 11:15:20,140 - INFO - Successfully inserted historical data for USB
+2024-09-03 11:15:21,628 - INFO - Successfully inserted historical data for PNC
+2024-09-03 11:15:22,723 - INFO - Successfully inserted historical data for BK
+2024-09-03 11:15:23,729 - INFO - Successfully inserted historical data for STT
+2024-09-03 11:15:24,287 - INFO - Successfully inserted historical data for CL=F
+2024-09-03 11:15:24,660 - INFO - Successfully inserted historical data for BZ=F
+2024-09-03 11:15:25,183 - INFO - Successfully inserted historical data for NG=F
+2024-09-03 11:15:25,717 - INFO - Successfully inserted historical data for RB=F
+2024-09-03 11:15:26,247 - INFO - Successfully inserted historical data for HO=F
+2024-09-03 11:15:27,595 - INFO - Successfully inserted historical data for XOM
+2024-09-03 11:15:28,968 - INFO - Successfully inserted historical data for CVX
+2024-09-03 11:15:30,366 - INFO - Successfully inserted historical data for BP
+2024-09-03 11:15:30,396 - WARNING - No historical data available for RDS.A
+2024-09-03 11:15:30,406 - WARNING - No historical data available for TOT
+2024-09-03 11:15:31,454 - INFO - Successfully inserted historical data for LMT
+2024-09-03 11:15:32,370 - INFO - Successfully inserted historical data for NOC
+2024-09-03 11:15:33,692 - INFO - Successfully inserted historical data for GD
+2024-09-03 11:15:33,698 - WARNING - No historical data available for RTN
+2024-09-03 11:15:35,030 - INFO - Successfully inserted historical data for BA
+2024-09-03 11:15:35,364 - INFO - Successfully inserted historical data for HII
+2024-09-03 11:15:36,473 - INFO - Successfully inserted historical data for TXT
+2024-09-03 11:15:37,769 - INFO - Successfully inserted historical data for HON
+2024-09-03 11:15:39,101 - INFO - Successfully inserted historical data for GD
+2024-09-03 11:15:40,029 - INFO - Successfully inserted historical data for LHX
+2024-09-03 11:15:40,955 - INFO - Successfully inserted historical data for AAPL
+2024-09-03 11:15:41,776 - INFO - Successfully inserted historical data for MSFT
+2024-09-03 11:15:42,260 - INFO - Successfully inserted historical data for GOOGL
+2024-09-03 11:15:42,922 - INFO - Successfully inserted historical data for AMZN
+2024-09-03 11:15:42,953 - WARNING - No historical data available for FB
+2024-09-03 11:15:43,252 - INFO - Successfully inserted historical data for TSLA
+2024-09-03 11:15:43,834 - INFO - Successfully inserted historical data for NVDA
+2024-09-03 11:15:44,839 - INFO - Successfully inserted historical data for INTC
+2024-09-03 11:15:45,656 - INFO - Successfully inserted historical data for CSCO
+2024-09-03 11:15:46,473 - INFO - Successfully inserted historical data for ORCL
+2024-09-03 11:15:47,824 - INFO - Successfully inserted historical data for JNJ
+2024-09-03 11:15:48,957 - INFO - Successfully inserted historical data for PFE
+2024-09-03 11:15:50,278 - INFO - Successfully inserted historical data for MRK
+2024-09-03 11:15:51,300 - INFO - Successfully inserted historical data for ABT
+2024-09-03 11:15:52,463 - INFO - Successfully inserted historical data for LLY
+2024-09-03 11:15:53,604 - INFO - Successfully inserted historical data for BMY
+2024-09-03 11:15:54,305 - INFO - Successfully inserted historical data for GILD
+2024-09-03 11:15:55,229 - INFO - Successfully inserted historical data for AMGN
+2024-09-03 11:15:55,512 - INFO - Successfully inserted historical data for ZTS
+2024-09-03 11:15:56,209 - INFO - Successfully inserted historical data for BIIB
+2024-09-03 11:15:57,617 - INFO - Successfully inserted historical data for PG
+2024-09-03 11:15:58,952 - INFO - Successfully inserted historical data for KO
+2024-09-03 11:16:00,086 - INFO - Successfully inserted historical data for PEP
+2024-09-03 11:16:01,505 - INFO - Successfully inserted historical data for MO
+2024-09-03 11:16:01,867 - INFO - Successfully inserted historical data for PM
+2024-09-03 11:16:03,015 - INFO - Successfully inserted historical data for CL
+2024-09-03 11:16:03,942 - INFO - Successfully inserted historical data for KMB
+2024-09-03 11:16:04,444 - INFO - Successfully inserted historical data for MDLZ
+2024-09-03 11:16:05,430 - INFO - Successfully inserted historical data for UL
+2024-09-03 11:16:06,431 - INFO - Successfully inserted historical data for NWL
+2024-09-03 11:16:07,539 - INFO - Successfully inserted historical data for NEE
+2024-09-03 11:16:08,536 - INFO - Successfully inserted historical data for DUK
+2024-09-03 11:16:09,487 - INFO - Successfully inserted historical data for SO
+2024-09-03 11:16:10,478 - INFO - Successfully inserted historical data for D
+2024-09-03 11:16:11,812 - INFO - Successfully inserted historical data for AEP
+2024-09-03 11:16:12,958 - INFO - Successfully inserted historical data for EXC
+2024-09-03 11:16:13,539 - INFO - Successfully inserted historical data for SRE
+2024-09-03 11:16:14,669 - INFO - Successfully inserted historical data for PCG
+2024-09-03 11:16:15,611 - INFO - Successfully inserted historical data for PEG
+2024-09-03 11:16:16,742 - INFO - Successfully inserted historical data for XEL
+2024-09-03 11:16:18,154 - INFO - Successfully inserted historical data for GE
+2024-09-03 11:16:19,552 - INFO - Successfully inserted historical data for MMM
+2024-09-03 11:16:20,886 - INFO - Successfully inserted historical data for CAT
+2024-09-03 11:16:22,251 - INFO - Successfully inserted historical data for BA
+2024-09-03 11:16:23,661 - INFO - Successfully inserted historical data for HON
+2024-09-03 11:16:23,661 - WARNING - No historical data available for UTX
+2024-09-03 11:16:24,685 - INFO - Successfully inserted historical data for LMT
+2024-09-03 11:16:25,981 - INFO - Successfully inserted historical data for GD
+2024-09-03 11:16:26,901 - INFO - Successfully inserted historical data for NOC
+2024-09-03 11:16:26,917 - WARNING - No historical data available for RTN
+2024-09-03 11:16:28,087 - INFO - Successfully inserted historical data for AXP
+2024-09-03 11:16:28,694 - INFO - Successfully inserted historical data for BLK
+2024-09-03 11:16:29,525 - INFO - Successfully inserted historical data for SCHW
+2024-09-03 11:16:30,673 - INFO - Successfully inserted historical data for MMC
+2024-09-03 11:16:31,867 - INFO - Successfully inserted historical data for SPGI
+2024-09-03 11:16:32,228 - INFO - Successfully inserted historical data for MSCI
+2024-09-03 11:16:32,653 - INFO - Successfully inserted historical data for ICE
+2024-09-03 11:16:33,109 - INFO - Successfully inserted historical data for CME
+2024-09-03 11:16:33,847 - INFO - Successfully inserted historical data for MCO
+2024-09-03 11:16:34,539 - INFO - Successfully inserted historical data for AMT
+2024-09-03 11:16:35,154 - INFO - Successfully inserted historical data for PLD
+2024-09-03 11:16:35,753 - INFO - Successfully inserted historical data for CCI
+2024-09-03 11:16:36,351 - INFO - Successfully inserted historical data for EQIX
+2024-09-03 11:16:37,263 - INFO - Successfully inserted historical data for PSA
+2024-09-03 11:16:37,939 - INFO - Successfully inserted historical data for SPG
+2024-09-03 11:16:38,584 - INFO - Successfully inserted historical data for AVB
+2024-09-03 11:16:39,259 - INFO - Successfully inserted historical data for EQR
+2024-09-03 11:16:39,968 - INFO - Successfully inserted historical data for ESS
+2024-09-03 11:16:40,707 - INFO - Successfully inserted historical data for O
+2024-09-03 11:16:41,432 - INFO - Successfully inserted historical data for SIRI
+2024-09-03 11:16:42,124 - INFO - Successfully inserted historical data for FCEL
+2024-09-03 11:16:42,721 - INFO - Successfully inserted historical data for PLUG
+2024-09-03 11:16:43,397 - INFO - Successfully inserted historical data for IDEX
+2024-09-03 11:16:43,620 - INFO - Successfully inserted historical data for GPRO
+2024-09-03 11:16:44,184 - INFO - Successfully inserted historical data for BB
+2024-09-03 11:16:44,845 - INFO - Successfully inserted historical data for NOK
+2024-09-03 11:16:44,971 - INFO - Successfully inserted historical data for FUBO
+2024-09-03 11:16:45,709 - INFO - Successfully inserted historical data for VIVE
+2024-09-03 11:16:45,945 - INFO - Successfully inserted historical data for OCGN
+2024-09-03 11:16:46,480 - INFO - Successfully inserted historical data for UPS
+2024-09-03 11:16:47,440 - INFO - Successfully inserted historical data for FDX
+2024-09-03 11:16:47,849 - INFO - Successfully inserted historical data for DAL
+2024-09-03 11:16:48,304 - INFO - Successfully inserted historical data for UAL
+2024-09-03 11:16:49,343 - INFO - Successfully inserted historical data for LUV
+2024-09-03 11:16:50,239 - INFO - Successfully inserted historical data for JBHT
+2024-09-03 11:16:51,138 - INFO - Successfully inserted historical data for EXPD
+2024-09-03 11:16:51,715 - INFO - Successfully inserted historical data for CHRW
+2024-09-03 11:16:52,218 - INFO - Successfully inserted historical data for XPO
+2024-09-03 11:16:53,179 - INFO - Successfully inserted historical data for NSC
+2024-09-03 11:16:54,310 - INFO - Successfully inserted historical data for WMT
+2024-09-03 11:16:55,505 - INFO - Successfully inserted historical data for TGT
+2024-09-03 11:16:56,356 - INFO - Successfully inserted historical data for COST
+2024-09-03 11:16:56,971 - INFO - Successfully inserted historical data for AMZN
+2024-09-03 11:16:57,835 - INFO - Successfully inserted historical data for BBY
+2024-09-03 11:16:58,842 - INFO - Successfully inserted historical data for HD
+2024-09-03 11:16:59,926 - INFO - Successfully inserted historical data for LOW
+2024-09-03 11:17:00,617 - INFO - Successfully inserted historical data for M
+2024-09-03 11:17:01,404 - INFO - Successfully inserted historical data for KSS
+2024-09-03 11:17:02,221 - INFO - Successfully inserted historical data for TJX
+2024-09-03 11:17:03,116 - INFO - Successfully inserted historical data for VZ
+2024-09-03 11:17:04,011 - INFO - Successfully inserted historical data for T
+2024-09-03 11:17:04,388 - INFO - Successfully inserted historical data for TMUS
+2024-09-03 11:17:04,482 - INFO - Successfully inserted historical data for S
+2024-09-03 11:17:04,529 - WARNING - No historical data available for CHL
+2024-09-03 11:17:05,315 - INFO - Successfully inserted historical data for VOD
+2024-09-03 11:17:05,911 - INFO - Successfully inserted historical data for ORAN
+2024-09-03 11:17:06,588 - INFO - Successfully inserted historical data for NOK
+2024-09-03 11:17:07,533 - INFO - Successfully inserted historical data for ERIC
+2024-09-03 11:17:08,113 - INFO - Successfully inserted historical data for AMX
+2024-09-03 11:17:08,780 - INFO - Successfully inserted historical data for XLE
+2024-09-03 11:17:09,232 - INFO - Successfully inserted historical data for XOP
+2024-09-03 11:17:09,767 - INFO - Successfully inserted historical data for OIH
+2024-09-03 11:17:10,221 - INFO - Successfully inserted historical data for VDE
+2024-09-03 11:17:10,803 - INFO - Successfully inserted historical data for IXC
+2024-09-03 11:17:11,134 - INFO - Successfully inserted historical data for ERX
+2024-09-03 11:17:11,512 - INFO - Successfully inserted historical data for ERY
+2024-09-03 11:17:11,921 - INFO - Successfully inserted historical data for PXI
+2024-09-03 11:17:12,426 - INFO - Successfully inserted historical data for IYE
+2024-09-03 11:17:12,676 - INFO - Successfully inserted historical data for FENY
+2024-09-03 11:17:13,165 - INFO - Successfully inserted historical data for GLD
+2024-09-03 11:17:13,591 - INFO - Successfully inserted historical data for SLV
+2024-09-03 11:17:13,906 - INFO - Successfully inserted historical data for PPLT
+2024-09-03 11:17:14,298 - INFO - Successfully inserted historical data for PALL
+2024-09-03 11:17:14,754 - INFO - Successfully inserted historical data for GDX
+2024-09-03 11:17:15,068 - INFO - Successfully inserted historical data for GDXJ
+2024-09-03 11:17:15,557 - INFO - Successfully inserted historical data for IAU
+2024-09-03 11:17:15,997 - INFO - Successfully inserted historical data for DBP
+2024-09-03 11:17:16,397 - INFO - Successfully inserted historical data for SGOL
+2024-09-03 11:17:16,722 - INFO - Successfully inserted historical data for RING
+2024-09-03 11:17:17,367 - INFO - Successfully inserted historical data for SPY
+2024-09-03 11:17:17,949 - INFO - Successfully inserted historical data for DIA
+2024-09-03 11:17:18,609 - INFO - Successfully inserted historical data for QQQ
+2024-09-03 11:17:19,159 - INFO - Successfully inserted historical data for IWM
+2024-09-03 11:17:19,740 - INFO - Successfully inserted historical data for IVV
+2024-09-03 11:17:20,117 - INFO - Successfully inserted historical data for VOO
+2024-09-03 11:17:20,682 - INFO - Successfully inserted historical data for VTI
+2024-09-03 11:17:21,108 - INFO - Successfully inserted historical data for VTV
+2024-09-03 11:17:21,372 - INFO - Successfully inserted historical data for MTUM
+2024-09-03 11:17:21,718 - INFO - Successfully inserted historical data for SCHX
+2024-09-03 11:17:22,428 - INFO - Successfully inserted historical data for XLK
+2024-09-03 11:17:23,043 - INFO - Successfully inserted historical data for VGT
+2024-09-03 11:17:23,335 - INFO - Successfully inserted historical data for FTEC
+2024-09-03 11:17:23,989 - INFO - Successfully inserted historical data for IYW
+2024-09-03 11:17:24,467 - INFO - Successfully inserted historical data for RYT
+2024-09-03 11:17:25,095 - INFO - Successfully inserted historical data for IXN
+2024-09-03 11:17:25,691 - INFO - Successfully inserted historical data for IGM
+2024-09-03 11:17:26,296 - INFO - Successfully inserted historical data for QTEC
+2024-09-03 11:17:26,823 - INFO - Successfully inserted historical data for XSD
+2024-09-03 11:17:27,395 - INFO - Successfully inserted historical data for SOXX
+2024-09-03 11:17:28,070 - INFO - Successfully inserted historical data for XLU
+2024-09-03 11:17:28,640 - INFO - Successfully inserted historical data for VPU
+2024-09-03 11:17:29,237 - INFO - Successfully inserted historical data for IDU
+2024-09-03 11:17:29,567 - INFO - Successfully inserted historical data for FUTY
+2024-09-03 11:17:30,074 - INFO - Successfully inserted historical data for RYU
+2024-09-03 11:17:30,658 - INFO - Successfully inserted historical data for PUI
+2024-09-03 11:17:31,155 - INFO - Successfully inserted historical data for FXU
+2024-09-03 11:17:31,634 - INFO - Successfully inserted historical data for JXI
+2024-09-03 11:17:32,211 - INFO - Successfully inserted historical data for PUI
+2024-09-03 11:17:32,657 - INFO - Successfully inserted historical data for RYU
+2024-09-03 11:17:33,096 - INFO - Successfully inserted historical data for VYM
+2024-09-03 11:17:33,552 - INFO - Successfully inserted historical data for DVY
+2024-09-03 11:17:34,023 - INFO - Successfully inserted historical data for SDY
+2024-09-03 11:17:34,321 - INFO - Successfully inserted historical data for HDV
+2024-09-03 11:17:34,620 - INFO - Successfully inserted historical data for SCHD
+2024-09-03 11:17:34,856 - INFO - Successfully inserted historical data for NOBL
+2024-09-03 11:17:35,280 - INFO - Successfully inserted historical data for VIG
+2024-09-03 11:17:35,484 - INFO - Successfully inserted historical data for SPYD
+2024-09-03 11:17:35,971 - INFO - Successfully inserted historical data for FVD
+2024-09-03 11:17:36,459 - INFO - Successfully inserted historical data for DLN
+2024-09-03 11:17:37,055 - INFO - Successfully inserted historical data for XLF
+2024-09-03 11:17:37,621 - INFO - Successfully inserted historical data for XLI
+2024-09-03 11:17:38,280 - INFO - Successfully inserted historical data for XLY
+2024-09-03 11:17:38,862 - INFO - Successfully inserted historical data for XLP
+2024-09-03 11:17:39,489 - INFO - Successfully inserted historical data for XLV
+2024-09-03 11:17:40,196 - INFO - Successfully inserted historical data for XLB
+2024-09-03 11:17:40,479 - INFO - Successfully inserted historical data for XLRE
+2024-09-03 11:17:40,793 - INFO - Successfully inserted historical data for XTL
+2024-09-03 11:17:41,406 - INFO - Successfully inserted historical data for XLU
+2024-09-03 11:17:41,971 - INFO - Successfully inserted historical data for XLK
+2024-09-03 11:17:41,971 - INFO - Historical data collection completed.

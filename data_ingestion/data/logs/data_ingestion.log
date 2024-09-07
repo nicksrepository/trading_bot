@@ -1,0 +1,624 @@
+2024-08-23 15:53:04,100 - INFO - Processing ticker: ^IRX
+2024-08-23 15:53:06,041 - INFO - Saved ^IRX data to data\historical\^irx_data.csv
+2024-08-23 15:53:07,053 - INFO - Processing ticker: ^FVX
+2024-08-23 15:53:07,408 - INFO - Saved ^FVX data to data\historical\^fvx_data.csv
+2024-08-23 15:53:08,484 - INFO - Processing ticker: ^TNX
+2024-08-23 15:53:08,859 - INFO - Saved ^TNX data to data\historical\^tnx_data.csv
+2024-08-23 15:53:09,872 - INFO - Processing ticker: ^TYX
+2024-08-23 15:53:10,215 - INFO - Saved ^TYX data to data\historical\^tyx_data.csv
+2024-08-23 15:53:11,279 - INFO - Processing ticker: ^US1M
+2024-08-23 15:53:14,036 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:14,036 - ERROR - ['^US1M']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:14,036 - WARNING - No data found for ^US1M. Skipping.
+2024-08-23 15:53:15,048 - INFO - Processing ticker: ^US3M
+2024-08-23 15:53:16,605 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:16,605 - ERROR - ['^US3M']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:16,605 - WARNING - No data found for ^US3M. Skipping.
+2024-08-23 15:53:17,615 - INFO - Processing ticker: ^US6M
+2024-08-23 15:53:19,054 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:19,054 - ERROR - ['^US6M']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:19,054 - WARNING - No data found for ^US6M. Skipping.
+2024-08-23 15:53:20,065 - INFO - Processing ticker: ^US1Y
+2024-08-23 15:53:21,359 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:21,359 - ERROR - ['^US1Y']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:21,359 - WARNING - No data found for ^US1Y. Skipping.
+2024-08-23 15:53:22,371 - INFO - Processing ticker: ^US2Y
+2024-08-23 15:53:23,827 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:23,827 - ERROR - ['^US2Y']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:23,827 - WARNING - No data found for ^US2Y. Skipping.
+2024-08-23 15:53:24,839 - INFO - Processing ticker: ^US5Y
+2024-08-23 15:53:26,756 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:26,756 - ERROR - ['^US5Y']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:26,756 - WARNING - No data found for ^US5Y. Skipping.
+2024-08-23 15:53:27,769 - INFO - Processing ticker: ^US10Y
+2024-08-23 15:53:29,127 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:29,127 - ERROR - ['^US10Y']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:29,127 - WARNING - No data found for ^US10Y. Skipping.
+2024-08-23 15:53:30,138 - INFO - Processing ticker: ^US30Y
+2024-08-23 15:53:31,288 - ERROR - 
+1 Failed download:
+2024-08-23 15:53:31,288 - ERROR - ['^US30Y']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:53:31,288 - WARNING - No data found for ^US30Y. Skipping.
+2024-08-23 15:53:32,303 - INFO - Processing ticker: JPM
+2024-08-23 15:53:33,869 - INFO - Saved JPM data to data\historical\jpm_data.csv
+2024-08-23 15:53:34,883 - INFO - Processing ticker: BAC
+2024-08-23 15:53:35,576 - INFO - Saved BAC data to data\historical\bac_data.csv
+2024-08-23 15:53:36,629 - INFO - Processing ticker: C
+2024-08-23 15:53:37,315 - INFO - Saved C data to data\historical\c_data.csv
+2024-08-23 15:53:38,327 - INFO - Processing ticker: WFC
+2024-08-23 15:53:38,912 - INFO - Saved WFC data to data\historical\wfc_data.csv
+2024-08-23 15:53:39,970 - INFO - Processing ticker: GS
+2024-08-23 15:53:40,419 - INFO - Saved GS data to data\historical\gs_data.csv
+2024-08-23 15:53:41,485 - INFO - Processing ticker: MS
+2024-08-23 15:53:42,062 - INFO - Saved MS data to data\historical\ms_data.csv
+2024-08-23 15:53:43,129 - INFO - Processing ticker: USB
+2024-08-23 15:53:43,608 - INFO - Saved USB data to data\historical\usb_data.csv
+2024-08-23 15:53:44,678 - INFO - Processing ticker: PNC
+2024-08-23 15:53:45,181 - INFO - Saved PNC data to data\historical\pnc_data.csv
+2024-08-23 15:53:46,254 - INFO - Processing ticker: BK
+2024-08-23 15:53:46,830 - INFO - Saved BK data to data\historical\bk_data.csv
+2024-08-23 15:53:47,845 - INFO - Processing ticker: STT
+2024-08-23 15:53:48,408 - INFO - Saved STT data to data\historical\stt_data.csv
+2024-08-23 15:53:49,478 - INFO - Processing ticker: CL=F
+2024-08-23 15:53:49,827 - INFO - Saved CL=F data to data\historical\CL=F_data.csv
+2024-08-23 15:53:50,895 - INFO - Processing ticker: BZ=F
+2024-08-23 15:53:51,282 - INFO - Saved BZ=F data to data\historical\BZ=F_data.csv
+2024-08-23 15:53:52,296 - INFO - Processing ticker: NG=F
+2024-08-23 15:53:52,686 - INFO - Saved NG=F data to data\historical\NG=F_data.csv
+2024-08-23 15:53:53,758 - INFO - Processing ticker: RB=F
+2024-08-23 15:53:54,202 - INFO - Saved RB=F data to data\historical\RB=F_data.csv
+2024-08-23 15:53:55,270 - INFO - Processing ticker: HO=F
+2024-08-23 15:53:55,728 - INFO - Saved HO=F data to data\historical\HO=F_data.csv
+2024-08-23 15:53:56,804 - INFO - Processing ticker: XOM
+2024-08-23 15:53:57,305 - INFO - Saved XOM data to data\historical\xom_data.csv
+2024-08-23 15:53:58,317 - INFO - Processing ticker: CVX
+2024-08-23 15:53:58,995 - INFO - Saved CVX data to data\historical\cvx_data.csv
+2024-08-23 15:54:00,009 - INFO - Processing ticker: BP
+2024-08-23 15:54:00,734 - INFO - Saved BP data to data\historical\bp_data.csv
+2024-08-23 15:54:01,786 - INFO - Processing ticker: RDS.A
+2024-08-23 15:54:03,129 - ERROR - 
+1 Failed download:
+2024-08-23 15:54:03,129 - ERROR - ['RDS.A']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:54:03,129 - WARNING - No data found for RDS.A. Skipping.
+2024-08-23 15:54:04,139 - INFO - Processing ticker: TOT
+2024-08-23 15:54:05,526 - ERROR - 
+1 Failed download:
+2024-08-23 15:54:05,529 - ERROR - ['TOT']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:54:05,529 - WARNING - No data found for TOT. Skipping.
+2024-08-23 15:54:06,538 - INFO - Processing ticker: LMT
+2024-08-23 15:54:07,150 - INFO - Saved LMT data to data\historical\lmt_data.csv
+2024-08-23 15:54:08,224 - INFO - Processing ticker: NOC
+2024-08-23 15:54:08,793 - INFO - Saved NOC data to data\historical\noc_data.csv
+2024-08-23 15:54:09,854 - INFO - Processing ticker: GD
+2024-08-23 15:54:10,425 - INFO - Saved GD data to data\historical\gd_data.csv
+2024-08-23 15:54:11,502 - INFO - Processing ticker: RTN
+2024-08-23 15:54:12,967 - ERROR - 
+1 Failed download:
+2024-08-23 15:54:12,967 - ERROR - ['RTN']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:54:12,967 - WARNING - No data found for RTN. Skipping.
+2024-08-23 15:54:13,985 - INFO - Processing ticker: BA
+2024-08-23 15:54:14,468 - INFO - Saved BA data to data\historical\ba_data.csv
+2024-08-23 15:54:15,538 - INFO - Processing ticker: HII
+2024-08-23 15:54:15,977 - INFO - Saved HII data to data\historical\hii_data.csv
+2024-08-23 15:54:16,991 - INFO - Processing ticker: TXT
+2024-08-23 15:54:17,598 - INFO - Saved TXT data to data\historical\txt_data.csv
+2024-08-23 15:54:18,663 - INFO - Processing ticker: HON
+2024-08-23 15:54:19,347 - INFO - Saved HON data to data\historical\hon_data.csv
+2024-08-23 15:54:20,362 - INFO - Processing ticker: GD
+2024-08-23 15:54:20,508 - WARNING - Warning: Missing dates detected in GD: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:54:22,044 - ERROR - 
+1 Failed download:
+2024-08-23 15:54:22,044 - ERROR - ['GD']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450060")')
+2024-08-23 15:54:22,044 - INFO - No new data available for GD.
+2024-08-23 15:54:23,055 - INFO - Processing ticker: LHX
+2024-08-23 15:54:23,711 - INFO - Saved LHX data to data\historical\lhx_data.csv
+2024-08-23 15:54:24,785 - INFO - Processing ticker: AAPL
+2024-08-23 15:54:25,273 - INFO - Saved AAPL data to data\historical\aapl_data.csv
+2024-08-23 15:54:26,290 - INFO - Processing ticker: MSFT
+2024-08-23 15:54:26,782 - INFO - Saved MSFT data to data\historical\msft_data.csv
+2024-08-23 15:54:27,855 - INFO - Processing ticker: GOOGL
+2024-08-23 15:54:28,271 - INFO - Saved GOOGL data to data\historical\googl_data.csv
+2024-08-23 15:54:29,285 - INFO - Processing ticker: AMZN
+2024-08-23 15:54:29,674 - INFO - Saved AMZN data to data\historical\amzn_data.csv
+2024-08-23 15:54:30,742 - INFO - Processing ticker: FB
+2024-08-23 15:54:32,111 - ERROR - 
+1 Failed download:
+2024-08-23 15:54:32,111 - ERROR - ['FB']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:54:32,111 - WARNING - No data found for FB. Skipping.
+2024-08-23 15:54:33,130 - INFO - Processing ticker: TSLA
+2024-08-23 15:54:33,553 - INFO - Saved TSLA data to data\historical\tsla_data.csv
+2024-08-23 15:54:34,567 - INFO - Processing ticker: NVDA
+2024-08-23 15:54:35,061 - INFO - Saved NVDA data to data\historical\nvda_data.csv
+2024-08-23 15:54:36,150 - INFO - Processing ticker: INTC
+2024-08-23 15:54:36,671 - INFO - Saved INTC data to data\historical\intc_data.csv
+2024-08-23 15:54:37,687 - INFO - Processing ticker: CSCO
+2024-08-23 15:54:38,217 - INFO - Saved CSCO data to data\historical\csco_data.csv
+2024-08-23 15:54:39,309 - INFO - Processing ticker: ORCL
+2024-08-23 15:54:39,834 - INFO - Saved ORCL data to data\historical\orcl_data.csv
+2024-08-23 15:54:40,910 - INFO - Processing ticker: JNJ
+2024-08-23 15:54:41,466 - INFO - Saved JNJ data to data\historical\jnj_data.csv
+2024-08-23 15:54:42,542 - INFO - Processing ticker: PFE
+2024-08-23 15:54:43,101 - INFO - Saved PFE data to data\historical\pfe_data.csv
+2024-08-23 15:54:44,163 - INFO - Processing ticker: MRK
+2024-08-23 15:54:44,688 - INFO - Saved MRK data to data\historical\mrk_data.csv
+2024-08-23 15:54:45,749 - INFO - Processing ticker: ABT
+2024-08-23 15:54:46,368 - INFO - Saved ABT data to data\historical\abt_data.csv
+2024-08-23 15:54:47,385 - INFO - Processing ticker: LLY
+2024-08-23 15:54:47,914 - INFO - Saved LLY data to data\historical\lly_data.csv
+2024-08-23 15:54:48,980 - INFO - Processing ticker: BMY
+2024-08-23 15:54:49,535 - INFO - Saved BMY data to data\historical\bmy_data.csv
+2024-08-23 15:54:50,609 - INFO - Processing ticker: GILD
+2024-08-23 15:54:51,148 - INFO - Saved GILD data to data\historical\gild_data.csv
+2024-08-23 15:54:52,236 - INFO - Processing ticker: AMGN
+2024-08-23 15:54:52,714 - INFO - Saved AMGN data to data\historical\amgn_data.csv
+2024-08-23 15:54:53,768 - INFO - Processing ticker: ZTS
+2024-08-23 15:54:54,059 - INFO - Saved ZTS data to data\historical\zts_data.csv
+2024-08-23 15:54:55,072 - INFO - Processing ticker: BIIB
+2024-08-23 15:54:55,562 - INFO - Saved BIIB data to data\historical\biib_data.csv
+2024-08-23 15:54:56,580 - INFO - Processing ticker: PG
+2024-08-23 15:54:57,776 - INFO - Saved PG data to data\historical\pg_data.csv
+2024-08-23 15:54:58,850 - INFO - Processing ticker: KO
+2024-08-23 15:54:59,579 - INFO - Saved KO data to data\historical\ko_data.csv
+2024-08-23 15:55:00,683 - INFO - Processing ticker: PEP
+2024-08-23 15:55:01,296 - INFO - Saved PEP data to data\historical\pep_data.csv
+2024-08-23 15:55:02,378 - INFO - Processing ticker: MO
+2024-08-23 15:55:02,965 - INFO - Saved MO data to data\historical\mo_data.csv
+2024-08-23 15:55:04,054 - INFO - Processing ticker: PM
+2024-08-23 15:55:04,496 - INFO - Saved PM data to data\historical\pm_data.csv
+2024-08-23 15:55:05,510 - INFO - Processing ticker: CL
+2024-08-23 15:55:06,135 - INFO - Saved CL data to data\historical\cl_data.csv
+2024-08-23 15:55:07,221 - INFO - Processing ticker: KMB
+2024-08-23 15:55:07,878 - INFO - Saved KMB data to data\historical\kmb_data.csv
+2024-08-23 15:55:08,968 - INFO - Processing ticker: MDLZ
+2024-08-23 15:55:09,462 - INFO - Saved MDLZ data to data\historical\mdlz_data.csv
+2024-08-23 15:55:10,523 - INFO - Processing ticker: UL
+2024-08-23 15:55:11,020 - INFO - Saved UL data to data\historical\ul_data.csv
+2024-08-23 15:55:12,111 - INFO - Processing ticker: NWL
+2024-08-23 15:55:12,640 - INFO - Saved NWL data to data\historical\nwl_data.csv
+2024-08-23 15:55:13,705 - INFO - Processing ticker: NEE
+2024-08-23 15:55:14,235 - INFO - Saved NEE data to data\historical\nee_data.csv
+2024-08-23 15:55:15,321 - INFO - Processing ticker: DUK
+2024-08-23 15:55:15,899 - INFO - Saved DUK data to data\historical\duk_data.csv
+2024-08-23 15:55:16,908 - INFO - Processing ticker: SO
+2024-08-23 15:55:17,537 - INFO - Saved SO data to data\historical\so_data.csv
+2024-08-23 15:55:18,604 - INFO - Processing ticker: D
+2024-08-23 15:55:19,196 - INFO - Saved D data to data\historical\d_data.csv
+2024-08-23 15:55:20,268 - INFO - Processing ticker: AEP
+2024-08-23 15:55:20,743 - INFO - Saved AEP data to data\historical\aep_data.csv
+2024-08-23 15:55:21,816 - INFO - Processing ticker: EXC
+2024-08-23 15:55:22,400 - INFO - Saved EXC data to data\historical\exc_data.csv
+2024-08-23 15:55:23,411 - INFO - Processing ticker: SRE
+2024-08-23 15:55:23,905 - INFO - Saved SRE data to data\historical\sre_data.csv
+2024-08-23 15:55:24,964 - INFO - Processing ticker: PCG
+2024-08-23 15:55:25,558 - INFO - Saved PCG data to data\historical\pcg_data.csv
+2024-08-23 15:55:26,626 - INFO - Processing ticker: PEG
+2024-08-23 15:55:27,137 - INFO - Saved PEG data to data\historical\peg_data.csv
+2024-08-23 15:55:28,211 - INFO - Processing ticker: XEL
+2024-08-23 15:55:28,785 - INFO - Saved XEL data to data\historical\xel_data.csv
+2024-08-23 15:55:29,857 - INFO - Processing ticker: GE
+2024-08-23 15:55:30,442 - INFO - Saved GE data to data\historical\ge_data.csv
+2024-08-23 15:55:31,501 - INFO - Processing ticker: MMM
+2024-08-23 15:55:32,092 - INFO - Saved MMM data to data\historical\mmm_data.csv
+2024-08-23 15:55:33,165 - INFO - Processing ticker: CAT
+2024-08-23 15:55:33,735 - INFO - Saved CAT data to data\historical\cat_data.csv
+2024-08-23 15:55:34,748 - INFO - Processing ticker: BA
+2024-08-23 15:55:34,865 - WARNING - Warning: Missing dates detected in BA: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:55:37,185 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:37,185 - ERROR - ['BA']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450134")')
+2024-08-23 15:55:37,185 - INFO - No new data available for BA.
+2024-08-23 15:55:38,198 - INFO - Processing ticker: HON
+2024-08-23 15:55:38,311 - WARNING - Warning: Missing dates detected in HON: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:55:39,745 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:39,745 - ERROR - ['HON']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450138")')
+2024-08-23 15:55:39,751 - INFO - No new data available for HON.
+2024-08-23 15:55:40,759 - INFO - Processing ticker: UTX
+2024-08-23 15:55:42,130 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:42,130 - ERROR - ['UTX']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:55:42,130 - WARNING - No data found for UTX. Skipping.
+2024-08-23 15:55:43,142 - INFO - Processing ticker: LMT
+2024-08-23 15:55:43,277 - WARNING - Warning: Missing dates detected in LMT: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:55:44,573 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:44,573 - ERROR - ['LMT']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450143")')
+2024-08-23 15:55:44,573 - INFO - No new data available for LMT.
+2024-08-23 15:55:45,584 - INFO - Processing ticker: GD
+2024-08-23 15:55:45,719 - WARNING - Warning: Missing dates detected in GD: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:55:46,924 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:46,924 - ERROR - ['GD']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450145")')
+2024-08-23 15:55:46,924 - INFO - No new data available for GD.
+2024-08-23 15:55:47,936 - INFO - Processing ticker: NOC
+2024-08-23 15:55:48,065 - WARNING - Warning: Missing dates detected in NOC: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:55:49,367 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:49,367 - ERROR - ['NOC']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450148")')
+2024-08-23 15:55:49,367 - INFO - No new data available for NOC.
+2024-08-23 15:55:50,380 - INFO - Processing ticker: RTN
+2024-08-23 15:55:50,434 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:50,434 - ERROR - ['RTN']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:55:50,434 - WARNING - No data found for RTN. Skipping.
+2024-08-23 15:55:51,448 - INFO - Processing ticker: BRK.B
+2024-08-23 15:55:52,872 - ERROR - 
+1 Failed download:
+2024-08-23 15:55:52,872 - ERROR - ['BRK.B']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:55:52,872 - WARNING - No data found for BRK.B. Skipping.
+2024-08-23 15:55:53,881 - INFO - Processing ticker: AXP
+2024-08-23 15:55:55,859 - INFO - Saved AXP data to data\historical\axp_data.csv
+2024-08-23 15:55:56,928 - INFO - Processing ticker: BLK
+2024-08-23 15:55:57,682 - INFO - Saved BLK data to data\historical\blk_data.csv
+2024-08-23 15:55:58,751 - INFO - Processing ticker: SCHW
+2024-08-23 15:55:59,453 - INFO - Saved SCHW data to data\historical\schw_data.csv
+2024-08-23 15:56:00,523 - INFO - Processing ticker: MMC
+2024-08-23 15:56:01,122 - INFO - Saved MMC data to data\historical\mmc_data.csv
+2024-08-23 15:56:02,188 - INFO - Processing ticker: SPGI
+2024-08-23 15:56:02,803 - INFO - Saved SPGI data to data\historical\spgi_data.csv
+2024-08-23 15:56:03,818 - INFO - Processing ticker: MSCI
+2024-08-23 15:56:04,280 - INFO - Saved MSCI data to data\historical\msci_data.csv
+2024-08-23 15:56:05,353 - INFO - Processing ticker: ICE
+2024-08-23 15:56:05,800 - INFO - Saved ICE data to data\historical\ice_data.csv
+2024-08-23 15:56:06,811 - INFO - Processing ticker: CME
+2024-08-23 15:56:07,287 - INFO - Saved CME data to data\historical\cme_data.csv
+2024-08-23 15:56:08,346 - INFO - Processing ticker: MCO
+2024-08-23 15:56:08,820 - INFO - Saved MCO data to data\historical\mco_data.csv
+2024-08-23 15:56:09,891 - INFO - Processing ticker: AMT
+2024-08-23 15:56:10,345 - INFO - Saved AMT data to data\historical\amt_data.csv
+2024-08-23 15:56:11,407 - INFO - Processing ticker: PLD
+2024-08-23 15:56:11,860 - INFO - Saved PLD data to data\historical\pld_data.csv
+2024-08-23 15:56:12,927 - INFO - Processing ticker: CCI
+2024-08-23 15:56:13,376 - INFO - Saved CCI data to data\historical\cci_data.csv
+2024-08-23 15:56:14,390 - INFO - Processing ticker: EQIX
+2024-08-23 15:56:14,858 - INFO - Saved EQIX data to data\historical\eqix_data.csv
+2024-08-23 15:56:15,868 - INFO - Processing ticker: PSA
+2024-08-23 15:56:16,353 - INFO - Saved PSA data to data\historical\psa_data.csv
+2024-08-23 15:56:17,423 - INFO - Processing ticker: SPG
+2024-08-23 15:56:17,908 - INFO - Saved SPG data to data\historical\spg_data.csv
+2024-08-23 15:56:18,983 - INFO - Processing ticker: AVB
+2024-08-23 15:56:19,424 - INFO - Saved AVB data to data\historical\avb_data.csv
+2024-08-23 15:56:20,496 - INFO - Processing ticker: EQR
+2024-08-23 15:56:21,006 - INFO - Saved EQR data to data\historical\eqr_data.csv
+2024-08-23 15:56:22,079 - INFO - Processing ticker: ESS
+2024-08-23 15:56:22,555 - INFO - Saved ESS data to data\historical\ess_data.csv
+2024-08-23 15:56:23,629 - INFO - Processing ticker: O
+2024-08-23 15:56:24,136 - INFO - Saved O data to data\historical\o_data.csv
+2024-08-23 15:56:25,194 - INFO - Processing ticker: SIRI
+2024-08-23 15:56:25,582 - INFO - Saved SIRI data to data\historical\siri_data.csv
+2024-08-23 15:56:26,646 - INFO - Processing ticker: FCEL
+2024-08-23 15:56:27,086 - INFO - Saved FCEL data to data\historical\fcel_data.csv
+2024-08-23 15:56:28,153 - INFO - Processing ticker: PLUG
+2024-08-23 15:56:28,542 - INFO - Saved PLUG data to data\historical\plug_data.csv
+2024-08-23 15:56:29,591 - INFO - Processing ticker: IDEX
+2024-08-23 15:56:30,035 - INFO - Saved IDEX data to data\historical\idex_data.csv
+2024-08-23 15:56:31,101 - INFO - Processing ticker: GPRO
+2024-08-23 15:56:31,418 - INFO - Saved GPRO data to data\historical\gpro_data.csv
+2024-08-23 15:56:32,432 - INFO - Processing ticker: BB
+2024-08-23 15:56:32,798 - INFO - Saved BB data to data\historical\bb_data.csv
+2024-08-23 15:56:33,872 - INFO - Processing ticker: NOK
+2024-08-23 15:56:34,335 - INFO - Saved NOK data to data\historical\nok_data.csv
+2024-08-23 15:56:35,344 - INFO - Processing ticker: FUBO
+2024-08-23 15:56:35,614 - INFO - Saved FUBO data to data\historical\fubo_data.csv
+2024-08-23 15:56:36,625 - INFO - Processing ticker: VIVE
+2024-08-23 15:56:37,204 - INFO - Saved VIVE data to data\historical\vive_data.csv
+2024-08-23 15:56:38,215 - INFO - Processing ticker: OCGN
+2024-08-23 15:56:38,558 - INFO - Saved OCGN data to data\historical\ocgn_data.csv
+2024-08-23 15:56:39,573 - INFO - Processing ticker: UPS
+2024-08-23 15:56:40,153 - INFO - Saved UPS data to data\historical\ups_data.csv
+2024-08-23 15:56:41,221 - INFO - Processing ticker: FDX
+2024-08-23 15:56:41,871 - INFO - Saved FDX data to data\historical\fdx_data.csv
+2024-08-23 15:56:42,884 - INFO - Processing ticker: DAL
+2024-08-23 15:56:43,326 - INFO - Saved DAL data to data\historical\dal_data.csv
+2024-08-23 15:56:44,337 - INFO - Processing ticker: UAL
+2024-08-23 15:56:44,805 - INFO - Saved UAL data to data\historical\ual_data.csv
+2024-08-23 15:56:45,829 - INFO - Processing ticker: LUV
+2024-08-23 15:56:46,431 - INFO - Saved LUV data to data\historical\luv_data.csv
+2024-08-23 15:56:47,500 - INFO - Processing ticker: JBHT
+2024-08-23 15:56:48,062 - INFO - Saved JBHT data to data\historical\jbht_data.csv
+2024-08-23 15:56:49,121 - INFO - Processing ticker: EXPD
+2024-08-23 15:56:49,652 - INFO - Saved EXPD data to data\historical\expd_data.csv
+2024-08-23 15:56:50,721 - INFO - Processing ticker: CHRW
+2024-08-23 15:56:51,477 - INFO - Saved CHRW data to data\historical\chrw_data.csv
+2024-08-23 15:56:52,540 - INFO - Processing ticker: XPO
+2024-08-23 15:56:52,999 - INFO - Saved XPO data to data\historical\xpo_data.csv
+2024-08-23 15:56:54,065 - INFO - Processing ticker: NSC
+2024-08-23 15:56:54,624 - INFO - Saved NSC data to data\historical\nsc_data.csv
+2024-08-23 15:56:55,678 - INFO - Processing ticker: WMT
+2024-08-23 15:56:56,202 - INFO - Saved WMT data to data\historical\wmt_data.csv
+2024-08-23 15:56:57,273 - INFO - Processing ticker: TGT
+2024-08-23 15:56:57,819 - INFO - Saved TGT data to data\historical\tgt_data.csv
+2024-08-23 15:56:58,883 - INFO - Processing ticker: COST
+2024-08-23 15:56:59,462 - INFO - Saved COST data to data\historical\cost_data.csv
+2024-08-23 15:57:00,528 - INFO - Processing ticker: AMZN
+2024-08-23 15:57:00,666 - WARNING - Warning: Missing dates detected in AMZN: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:57:02,879 - ERROR - 
+1 Failed download:
+2024-08-23 15:57:02,879 - ERROR - ['AMZN']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450220")')
+2024-08-23 15:57:02,879 - INFO - No new data available for AMZN.
+2024-08-23 15:57:03,889 - INFO - Processing ticker: BBY
+2024-08-23 15:57:04,351 - INFO - Saved BBY data to data\historical\bby_data.csv
+2024-08-23 15:57:05,422 - INFO - Processing ticker: HD
+2024-08-23 15:57:05,892 - INFO - Saved HD data to data\historical\hd_data.csv
+2024-08-23 15:57:06,972 - INFO - Processing ticker: LOW
+2024-08-23 15:57:07,594 - INFO - Saved LOW data to data\historical\low_data.csv
+2024-08-23 15:57:08,656 - INFO - Processing ticker: M
+2024-08-23 15:57:09,220 - INFO - Saved M data to data\historical\m_data.csv
+2024-08-23 15:57:10,286 - INFO - Processing ticker: KSS
+2024-08-23 15:57:10,725 - INFO - Saved KSS data to data\historical\kss_data.csv
+2024-08-23 15:57:11,737 - INFO - Processing ticker: TJX
+2024-08-23 15:57:12,335 - INFO - Saved TJX data to data\historical\tjx_data.csv
+2024-08-23 15:57:13,389 - INFO - Processing ticker: VZ
+2024-08-23 15:57:13,888 - INFO - Saved VZ data to data\historical\vz_data.csv
+2024-08-23 15:57:14,956 - INFO - Processing ticker: T
+2024-08-23 15:57:15,446 - INFO - Saved T data to data\historical\t_data.csv
+2024-08-23 15:57:16,519 - INFO - Processing ticker: TMUS
+2024-08-23 15:57:16,949 - INFO - Saved TMUS data to data\historical\tmus_data.csv
+2024-08-23 15:57:17,958 - INFO - Processing ticker: S
+2024-08-23 15:57:18,229 - INFO - Saved S data to data\historical\s_data.csv
+2024-08-23 15:57:19,239 - INFO - Processing ticker: CHL
+2024-08-23 15:57:20,867 - ERROR - 
+1 Failed download:
+2024-08-23 15:57:20,867 - ERROR - ['CHL']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-08-23 15:57:20,867 - WARNING - No data found for CHL. Skipping.
+2024-08-23 15:57:21,880 - INFO - Processing ticker: VOD
+2024-08-23 15:57:22,690 - INFO - Saved VOD data to data\historical\vod_data.csv
+2024-08-23 15:57:23,762 - INFO - Processing ticker: ORAN
+2024-08-23 15:57:24,357 - INFO - Saved ORAN data to data\historical\oran_data.csv
+2024-08-23 15:57:25,431 - INFO - Processing ticker: NOK
+2024-08-23 15:57:25,547 - WARNING - Warning: Missing dates detected in NOK: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:57:26,944 - ERROR - 
+1 Failed download:
+2024-08-23 15:57:26,944 - ERROR - ['NOK']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450245")')
+2024-08-23 15:57:26,944 - INFO - No new data available for NOK.
+2024-08-23 15:57:27,954 - INFO - Processing ticker: ERIC
+2024-08-23 15:57:29,631 - INFO - Saved ERIC data to data\historical\eric_data.csv
+2024-08-23 15:57:30,696 - INFO - Processing ticker: AMX
+2024-08-23 15:57:31,423 - INFO - Saved AMX data to data\historical\amx_data.csv
+2024-08-23 15:57:32,479 - INFO - Processing ticker: XLE
+2024-08-23 15:57:32,989 - INFO - Saved XLE data to data\historical\xle_data.csv
+2024-08-23 15:57:34,057 - INFO - Processing ticker: XOP
+2024-08-23 15:57:34,536 - INFO - Saved XOP data to data\historical\xop_data.csv
+2024-08-23 15:57:35,547 - INFO - Processing ticker: OIH
+2024-08-23 15:57:36,048 - INFO - Saved OIH data to data\historical\oih_data.csv
+2024-08-23 15:57:37,117 - INFO - Processing ticker: VDE
+2024-08-23 15:57:37,475 - INFO - Saved VDE data to data\historical\vde_data.csv
+2024-08-23 15:57:38,487 - INFO - Processing ticker: IXC
+2024-08-23 15:57:38,970 - INFO - Saved IXC data to data\historical\ixc_data.csv
+2024-08-23 15:57:39,982 - INFO - Processing ticker: ERX
+2024-08-23 15:57:40,413 - INFO - Saved ERX data to data\historical\erx_data.csv
+2024-08-23 15:57:41,424 - INFO - Processing ticker: ERY
+2024-08-23 15:57:41,854 - INFO - Saved ERY data to data\historical\ery_data.csv
+2024-08-23 15:57:42,864 - INFO - Processing ticker: PXI
+2024-08-23 15:57:43,557 - INFO - Saved PXI data to data\historical\pxi_data.csv
+2024-08-23 15:57:44,568 - INFO - Processing ticker: IYE
+2024-08-23 15:57:45,036 - INFO - Saved IYE data to data\historical\iye_data.csv
+2024-08-23 15:57:46,103 - INFO - Processing ticker: FENY
+2024-08-23 15:57:46,404 - INFO - Saved FENY data to data\historical\feny_data.csv
+2024-08-23 15:57:47,417 - INFO - Processing ticker: GLD
+2024-08-23 15:57:47,830 - INFO - Saved GLD data to data\historical\gld_data.csv
+2024-08-23 15:57:48,857 - INFO - Processing ticker: SLV
+2024-08-23 15:57:49,223 - INFO - Saved SLV data to data\historical\slv_data.csv
+2024-08-23 15:57:50,233 - INFO - Processing ticker: PPLT
+2024-08-23 15:57:50,570 - INFO - Saved PPLT data to data\historical\pplt_data.csv
+2024-08-23 15:57:51,580 - INFO - Processing ticker: PALL
+2024-08-23 15:57:52,003 - INFO - Saved PALL data to data\historical\pall_data.csv
+2024-08-23 15:57:53,013 - INFO - Processing ticker: GDX
+2024-08-23 15:57:53,456 - INFO - Saved GDX data to data\historical\gdx_data.csv
+2024-08-23 15:57:54,467 - INFO - Processing ticker: GDXJ
+2024-08-23 15:57:54,917 - INFO - Saved GDXJ data to data\historical\gdxj_data.csv
+2024-08-23 15:57:55,929 - INFO - Processing ticker: IAU
+2024-08-23 15:57:56,298 - INFO - Saved IAU data to data\historical\iau_data.csv
+2024-08-23 15:57:57,310 - INFO - Processing ticker: DBP
+2024-08-23 15:57:57,748 - INFO - Saved DBP data to data\historical\dbp_data.csv
+2024-08-23 15:57:58,759 - INFO - Processing ticker: SGOL
+2024-08-23 15:57:59,105 - INFO - Saved SGOL data to data\historical\sgol_data.csv
+2024-08-23 15:58:00,114 - INFO - Processing ticker: RING
+2024-08-23 15:58:00,538 - INFO - Saved RING data to data\historical\ring_data.csv
+2024-08-23 15:58:01,550 - INFO - Processing ticker: SPY
+2024-08-23 15:58:02,064 - INFO - Saved SPY data to data\historical\spy_data.csv
+2024-08-23 15:58:03,123 - INFO - Processing ticker: DIA
+2024-08-23 15:58:03,670 - INFO - Saved DIA data to data\historical\dia_data.csv
+2024-08-23 15:58:04,724 - INFO - Processing ticker: QQQ
+2024-08-23 15:58:05,203 - INFO - Saved QQQ data to data\historical\qqq_data.csv
+2024-08-23 15:58:06,272 - INFO - Processing ticker: IWM
+2024-08-23 15:58:06,886 - INFO - Saved IWM data to data\historical\iwm_data.csv
+2024-08-23 15:58:07,957 - INFO - Processing ticker: IVV
+2024-08-23 15:58:08,460 - INFO - Saved IVV data to data\historical\ivv_data.csv
+2024-08-23 15:58:09,527 - INFO - Processing ticker: VOO
+2024-08-23 15:58:09,968 - INFO - Saved VOO data to data\historical\voo_data.csv
+2024-08-23 15:58:10,979 - INFO - Processing ticker: VTI
+2024-08-23 15:58:11,394 - INFO - Saved VTI data to data\historical\vti_data.csv
+2024-08-23 15:58:12,404 - INFO - Processing ticker: VTV
+2024-08-23 15:58:12,834 - INFO - Saved VTV data to data\historical\vtv_data.csv
+2024-08-23 15:58:13,846 - INFO - Processing ticker: MTUM
+2024-08-23 15:58:14,170 - INFO - Saved MTUM data to data\historical\mtum_data.csv
+2024-08-23 15:58:15,189 - INFO - Processing ticker: SCHX
+2024-08-23 15:58:15,607 - INFO - Saved SCHX data to data\historical\schx_data.csv
+2024-08-23 15:58:16,622 - INFO - Processing ticker: XLK
+2024-08-23 15:58:17,143 - INFO - Saved XLK data to data\historical\xlk_data.csv
+2024-08-23 15:58:18,212 - INFO - Processing ticker: VGT
+2024-08-23 15:58:18,641 - INFO - Saved VGT data to data\historical\vgt_data.csv
+2024-08-23 15:58:19,657 - INFO - Processing ticker: FTEC
+2024-08-23 15:58:19,970 - INFO - Saved FTEC data to data\historical\ftec_data.csv
+2024-08-23 15:58:20,981 - INFO - Processing ticker: IYW
+2024-08-23 15:58:21,463 - INFO - Saved IYW data to data\historical\iyw_data.csv
+2024-08-23 15:58:22,475 - INFO - Processing ticker: RYT
+2024-08-23 15:58:22,861 - INFO - Saved RYT data to data\historical\ryt_data.csv
+2024-08-23 15:58:23,878 - INFO - Processing ticker: IXN
+2024-08-23 15:58:24,399 - INFO - Saved IXN data to data\historical\ixn_data.csv
+2024-08-23 15:58:25,418 - INFO - Processing ticker: IGM
+2024-08-23 15:58:25,981 - INFO - Saved IGM data to data\historical\igm_data.csv
+2024-08-23 15:58:26,991 - INFO - Processing ticker: QTEC
+2024-08-23 15:58:27,415 - INFO - Saved QTEC data to data\historical\qtec_data.csv
+2024-08-23 15:58:28,428 - INFO - Processing ticker: XSD
+2024-08-23 15:58:28,845 - INFO - Saved XSD data to data\historical\xsd_data.csv
+2024-08-23 15:58:29,867 - INFO - Processing ticker: SOXX
+2024-08-23 15:58:30,322 - INFO - Saved SOXX data to data\historical\soxx_data.csv
+2024-08-23 15:58:31,334 - INFO - Processing ticker: XLU
+2024-08-23 15:58:31,876 - INFO - Saved XLU data to data\historical\xlu_data.csv
+2024-08-23 15:58:32,929 - INFO - Processing ticker: VPU
+2024-08-23 15:58:33,359 - INFO - Saved VPU data to data\historical\vpu_data.csv
+2024-08-23 15:58:34,371 - INFO - Processing ticker: IDU
+2024-08-23 15:58:34,795 - INFO - Saved IDU data to data\historical\idu_data.csv
+2024-08-23 15:58:35,808 - INFO - Processing ticker: FUTY
+2024-08-23 15:58:36,093 - INFO - Saved FUTY data to data\historical\futy_data.csv
+2024-08-23 15:58:37,106 - INFO - Processing ticker: RYU
+2024-08-23 15:58:37,517 - INFO - Saved RYU data to data\historical\ryu_data.csv
+2024-08-23 15:58:38,530 - INFO - Processing ticker: PUI
+2024-08-23 15:58:38,946 - INFO - Saved PUI data to data\historical\pui_data.csv
+2024-08-23 15:58:39,958 - INFO - Processing ticker: FXU
+2024-08-23 15:58:40,389 - INFO - Saved FXU data to data\historical\fxu_data.csv
+2024-08-23 15:58:41,402 - INFO - Processing ticker: JXI
+2024-08-23 15:58:41,837 - INFO - Saved JXI data to data\historical\jxi_data.csv
+2024-08-23 15:58:42,847 - INFO - Processing ticker: PUI
+2024-08-23 15:58:42,957 - WARNING - Warning: Missing dates detected in PUI: DatetimeIndex(['2005-11-24', '2005-12-26', '2006-01-02', '2006-01-16',
+               '2006-02-20', '2006-04-14', '2006-05-29', '2006-07-04',
+               '2006-09-04', '2006-11-23',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=175, freq=None)
+2024-08-23 15:58:45,094 - ERROR - 
+1 Failed download:
+2024-08-23 15:58:45,094 - ERROR - ['PUI']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450322")')
+2024-08-23 15:58:45,094 - INFO - No new data available for PUI.
+2024-08-23 15:58:46,108 - INFO - Processing ticker: RYU
+2024-08-23 15:58:46,198 - WARNING - Warning: Missing dates detected in RYU: DatetimeIndex(['2009-01-19', '2009-02-16', '2009-04-10', '2009-05-25',
+               '2009-07-03', '2009-09-07', '2009-11-26', '2009-12-25',
+               '2010-01-01', '2010-01-18',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=144, freq=None)
+2024-08-23 15:58:46,511 - ERROR - 
+1 Failed download:
+2024-08-23 15:58:46,511 - ERROR - ['RYU']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-23 00:00:00 -> 2024-08-23)')
+2024-08-23 15:58:46,511 - INFO - No new data available for RYU.
+2024-08-23 15:58:47,524 - INFO - Processing ticker: VYM
+2024-08-23 15:58:48,903 - INFO - Saved VYM data to data\historical\vym_data.csv
+2024-08-23 15:58:49,919 - INFO - Processing ticker: DVY
+2024-08-23 15:58:50,678 - INFO - Saved DVY data to data\historical\dvy_data.csv
+2024-08-23 15:58:51,690 - INFO - Processing ticker: SDY
+2024-08-23 15:58:52,220 - INFO - Saved SDY data to data\historical\sdy_data.csv
+2024-08-23 15:58:53,280 - INFO - Processing ticker: HDV
+2024-08-23 15:58:53,717 - INFO - Saved HDV data to data\historical\hdv_data.csv
+2024-08-23 15:58:54,733 - INFO - Processing ticker: SCHD
+2024-08-23 15:58:55,107 - INFO - Saved SCHD data to data\historical\schd_data.csv
+2024-08-23 15:58:56,119 - INFO - Processing ticker: NOBL
+2024-08-23 15:58:56,427 - INFO - Saved NOBL data to data\historical\nobl_data.csv
+2024-08-23 15:58:57,439 - INFO - Processing ticker: VIG
+2024-08-23 15:58:57,835 - INFO - Saved VIG data to data\historical\vig_data.csv
+2024-08-23 15:58:58,847 - INFO - Processing ticker: SPYD
+2024-08-23 15:58:59,203 - INFO - Saved SPYD data to data\historical\spyd_data.csv
+2024-08-23 15:59:00,222 - INFO - Processing ticker: FVD
+2024-08-23 15:59:00,737 - INFO - Saved FVD data to data\historical\fvd_data.csv
+2024-08-23 15:59:01,811 - INFO - Processing ticker: DLN
+2024-08-23 15:59:02,307 - INFO - Saved DLN data to data\historical\dln_data.csv
+2024-08-23 15:59:03,318 - INFO - Processing ticker: XLF
+2024-08-23 15:59:03,821 - INFO - Saved XLF data to data\historical\xlf_data.csv
+2024-08-23 15:59:04,880 - INFO - Processing ticker: XLI
+2024-08-23 15:59:05,354 - INFO - Saved XLI data to data\historical\xli_data.csv
+2024-08-23 15:59:06,409 - INFO - Processing ticker: XLY
+2024-08-23 15:59:06,930 - INFO - Saved XLY data to data\historical\xly_data.csv
+2024-08-23 15:59:07,979 - INFO - Processing ticker: XLP
+2024-08-23 15:59:08,430 - INFO - Saved XLP data to data\historical\xlp_data.csv
+2024-08-23 15:59:09,499 - INFO - Processing ticker: XLV
+2024-08-23 15:59:09,966 - INFO - Saved XLV data to data\historical\xlv_data.csv
+2024-08-23 15:59:10,979 - INFO - Processing ticker: XLB
+2024-08-23 15:59:11,466 - INFO - Saved XLB data to data\historical\xlb_data.csv
+2024-08-23 15:59:12,509 - INFO - Processing ticker: XLRE
+2024-08-23 15:59:12,859 - INFO - Saved XLRE data to data\historical\xlre_data.csv
+2024-08-23 15:59:13,878 - INFO - Processing ticker: XTL
+2024-08-23 15:59:14,233 - INFO - Saved XTL data to data\historical\xtl_data.csv
+2024-08-23 15:59:15,247 - INFO - Processing ticker: XLU
+2024-08-23 15:59:15,411 - WARNING - Warning: Missing dates detected in XLU: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:59:16,849 - ERROR - 
+1 Failed download:
+2024-08-23 15:59:16,849 - ERROR - ['XLU']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450355")')
+2024-08-23 15:59:16,849 - INFO - No new data available for XLU.
+2024-08-23 15:59:17,867 - INFO - Processing ticker: XLK
+2024-08-23 15:59:17,995 - WARNING - Warning: Missing dates detected in XLK: DatetimeIndex(['2000-01-17', '2000-02-21', '2000-04-21', '2000-05-29',
+               '2000-07-04', '2000-09-04', '2000-11-23', '2000-12-25',
+               '2001-01-01', '2001-01-15',
+               ...
+               '2023-09-04', '2023-11-23', '2023-12-25', '2024-01-01',
+               '2024-01-15', '2024-02-19', '2024-03-29', '2024-05-27',
+               '2024-06-19', '2024-07-04'],
+              dtype='datetime64[ns]', length=230, freq=None)
+2024-08-23 15:59:19,291 - ERROR - 
+1 Failed download:
+2024-08-23 15:59:19,291 - ERROR - ['XLK']: YFPricesMissingError('$%ticker%: possibly delisted; no price data found  (1d 2024-08-24 00:00:00 -> 2024-08-23) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1724472000, endDate = 1724450358")')
+2024-08-23 15:59:19,291 - INFO - No new data available for XLK.
