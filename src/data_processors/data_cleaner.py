@@ -2,6 +2,8 @@
 
 import os
 import sys
+import pandas as pd
+
 
 # Add the project root to the Python path
 from src.utils.utils import add_project_root_to_path

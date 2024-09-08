@@ -1,15 +1,33 @@
-# src/__main__.py
+
+# src/main.py
+
 import sys
 import asyncio
-from src.data_collectors import financial_data_collector, historical_data_collector
+from src.data_collectors.financial_data_collector import collect_financial_data
+from src.data_collectors.historical_data_collector import collect_historical_data
+from src.data_processors.data_cleaner import clean_data
+from src.data_processors.feature_engineering import engineer_features
+from src.data_analysis.correlation_analysis import perform_correlation_analysis
+from src.utils.logging_config import setup_logging
+
+logger = setup_logging("main")
+
+async def main():
+    logger.info("Starting data collection and processing pipeline")
+
+    # Collect data
+    await collect_financial_data()
+    await collect_historical_data()
+
+
+    # Process data
+    await clean_data()
+    await engineer_features()
+
+    # Analyze data
+    await perform_correlation_analysis()
+
+    logger.info("Data collection and processing pipeline completed")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        if sys.argv[1] == "financial":
-            asyncio.run(financial_data_collector.main())
-        elif sys.argv[1] == "historical":
-            asyncio.run(historical_data_collector.main())
-        else:
-            print("Invalid argument. Use 'financial' or 'historical'.")
-    else:
-        print("Please specify which collector to run: 'financial' or 'historical'.")
+    asyncio.run(main())
